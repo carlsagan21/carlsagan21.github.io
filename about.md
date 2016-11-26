@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+김수(金秀, Soo Kim)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+None.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[carlsagan96@gmail.com](mailto:carlsagan96@gmail.com)
