@@ -5,8 +5,7 @@ title: 마태복음, 마가복음, 누가복음 비교
 
 복음서 전기 비교분석
 
-엑셀 다운로드
-https://drive.google.com/file/d/0B4nACxAOE5Z1V21Ncm52S2FjMXc/view?usp=sharing
+[엑셀 다운로드](https://drive.google.com/file/d/0B4nACxAOE5Z1V21Ncm52S2FjMXc/view?usp=sharing)
 
 
 | 1    |    |   |    |    |    | 마가                                                                                                                                                                                                  | 마태                                                                                                                                                                                                             | 누가                                                                                                                                                                                                                                     |
