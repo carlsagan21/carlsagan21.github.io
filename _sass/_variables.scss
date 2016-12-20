@@ -19,6 +19,10 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+$appleSDGothicNeo: "Apple SD Gothic Neo", “애플 SD 산돌고딕 Neo”, Apple SD Gothic Neo, Arial, sans-serif;
+
+// 'Noto Sans KR', Hevetica, "Apple SD Gothic Neo", “애플 SD 산돌고딕 Neo”, Apple SD Gothic Neo, 나눔바른고딕, NanumBarunGothic, 나눔바른고딕OTF, NanumBarunGothicOTF, 나눔고딕, "NanumGothic", "Nanum Gothic", "맑은 고딕", "Malgun Gothic", Ngothic, Arial, sans-serif;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
