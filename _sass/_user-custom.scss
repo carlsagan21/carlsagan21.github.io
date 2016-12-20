@@ -1,22 +1,24 @@
-.entry table th {
-  font-weight: bold;
-}
 
-.entry table tr {
-  background-color: #fff;
-  border-top: 1px solid #ccc;
-}
 
-.entry table th,
-.entry table td {
-  border: 1px solid #ddd;
-  padding: 6px 13px;
-}
-
-.entry table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-
-.entry p {
+.entry {
   line-height: 1.8;
+
+  table th {
+    font-weight: bold;
+  }
+
+  table tr {
+    background-color: $white;
+    border-top: 1px solid $gray80;
+  }
+
+  table th,
+  table td {
+    border: 1px solid $ddd;
+    padding: 6px 13px;
+  }
+
+  table tr:nth-child(2n) {
+    background-color: $f8f8f8;
+  }
 }
