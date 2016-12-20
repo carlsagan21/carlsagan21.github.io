@@ -26,6 +26,7 @@ title: 다국어 폰트 적용 실험
 맥은 디자인 감성 충만하게 여러 기본 폰트를 보유하고 있으며, 내 감각에는 상당히 미려한 폰트가 많다. 따라서 웹 폰트를 따로 다운 받는 것 보다, 맥의 기본폰트를 최대한 이용하는 걸로 마음먹었다.
 
 내 지킬 블로그는 scss를 이용하므로 변수를 쓸 수 있다. 요런 식으로.
+
 ```scss
 $appleSDGothicNeo: "Apple SD Gothic Neo", “애플 SD 산돌고딕 Neo”, Apple SD Gothic Neo, Arial, sans-serif;
 
@@ -38,9 +39,11 @@ body {
   ...
 }
 ```
+
 일단 맥 한글 기본 폰트인 애플 산돌고딕 네오를 적용해 보았다. 산돌 고딕 네오를 저렇게 여러개를 연달아 적어놓은 건, 운영체제 환경에 따라 다를 수 있다는 말을 들어서 다른 훌륭하신 분들의 블로그를 참조해 최대한 안전하게 저렇게 해놓았다. 하지만 한자 문제는 변함이 없었다.. 역시 일본어 폰트를 따로 적용해야 하는 것인가.
 
 일본어 폰트를 적용하기 위해서 맥에 저장되어있는 폰트를 뒤져보았다. hiraganoSans 시리즈와 Osaka가 보인다. 별다른 이유 없이 히라기노를 택했다. 이제 좀 업그레이드해서 써보면
+
 ```scss
 $baseFontStack: Arial, sans-serif;
 $hiraginoSans: Hiragino Sans;
@@ -74,10 +77,13 @@ ABcdEFgh 1234567890
 문제점 첫번째는 산돌 고딕은 일본 문자의 대부분을 커버하나 몇몇 문자는 커버하지 못한다는 점이다. 이래서야 문자의 일관성이 떨어진다. 두번째 문제점은 산돌 고딕의 히라가나/가타가나 폰트가 산돌 고딕과의 일관성은 상당히 있으나 그 자체로서의 심미성은 좀 부족하게 느껴진다는 것이었다.
 
 이 문제점을 해결하기 위해 히라가노를 산돌 고딕 앞으로 빼었다. 그러니까
+
 ```scss
 $myFontStack: $hiraginoSans, $appleSDGothicNeo, $baseFontStack;
 ```
+
 이렇게 말이다. 히라가노를 서체관리자에서 보면
+
 ```
 あのイーハトーヴォの
 すきとおった風、
@@ -89,6 +95,7 @@ ABCDEFGHIJKLM
 abcdefghijklm
 1234567890
 ```
+
 이므로 숫자, 알파벳, 한자, 히라가나, 가타가나를 커버함을 알 수 있다. 따라서 한글은 fallback을 적용받아 산돌 고딕이 적용되므로, 히라가노와 산돌고딕 모두를 한 화면에서 볼 수 있게 되었다!
 
 
@@ -97,13 +104,13 @@ abcdefghijklm
 나는 히라가나/가타가나/한자에만 일본어 폰트가 적용되었으면 했기 때문에 이는 내가 바랬던 사항도 아니고, 역시 폰트 심미성에서 감점이다. 그렇다면 어떻게?
 
 다시금 fallback을 생각하지 않을 수 없다. 영어 폰트는 영어와 알파벳을 커버하므로 영어 폰트를 앞에 세우면 나머지는 순차적으로 뒤의 폰트가 적용된다.
+
 ```scss
 $helvetica: Helvetica;
 $helveticaNeue: "Helvetica Neue";
 
 $myFontStack: $helvetica, $helveticaNeue, $hiraginoSans, $appleSDGothicNeo, $baseFontStack;
 ```
-요렇게 말이다!
 
 휴.. 이렇게 폰트를 세팅하고 보니, 엘 케피탄부터 맥의 기본 폰트가 샌프란시스코로 변경됐다는 정보가 기억이 났다. 기왕 이렇게 된거 한 번 샌프란시스코를 적용해보자고 뜬금없이 마음먹었다.
 
@@ -127,6 +134,7 @@ $myFontStack: $appleSystem, $helvetica, $helveticaNeue, $hiraginoSans, $appleSDG
 그래서 남은 선택지가 noto sans 이었다. 노토 시리즈는 일단 여러 문자를 일관성있게 관리하기에, 내 블로그처럼 3가지 종류의 문자가 혼합된 경우에 적합하다고 보였다. 그래서 과감하게 noto sans, noto sans jp, noto sans kr 시리즈를 모두 적용했다. 노토 산은 구글 폰트, jp와 kr은 얼리억세스이다. noto san jp, noto san japanese가 있는데 형태적으론 거의 동일하나, noto sans 가 국제 문자 통일을 프로젝트로 진행되면서 japanese 가 jp로 다른 문자와 일관성있게 변했다고 한다는 이야기를 어디서 보았다. jp가 보다 최신같으니 이쪽을 택했다.
 
 결국 코드는
+
 ```scss
 // Font stacks
 $appleSystem: system, -apple-system, BlinkMacSystemFont;
@@ -146,6 +154,7 @@ $baseFontStack: Arial, sans-serif;
 
 $myFontStack: $appleSystem, $helvetica, $helveticaNeue, $hiraginoSans, $appleSDGothicNeo, $notoSans, $notoSansJP, $notoSansKR, $baseFontStack;
 ```
+
 이 되었다.
 
 이게 지금(2016년 12월 20일) 현재 블로그 세팅이다.
