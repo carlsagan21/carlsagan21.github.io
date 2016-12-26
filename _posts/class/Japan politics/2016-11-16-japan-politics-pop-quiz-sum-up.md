@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 일본정치 팝퀴즈 대비
 ---
 

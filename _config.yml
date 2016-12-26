@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+# permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -84,3 +84,16 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# my options
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: "anonymous"
+      # categories: "etc"
+      tags: "etc"
+      published: "true"
