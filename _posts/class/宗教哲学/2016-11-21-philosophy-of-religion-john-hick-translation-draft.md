@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Philosophy of Religion Japanese translation draft
 ---
 

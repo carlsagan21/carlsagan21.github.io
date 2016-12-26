@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 꼬리재귀
 ---
 
