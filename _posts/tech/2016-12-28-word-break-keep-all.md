@@ -12,7 +12,8 @@ title: 글줄을 띄어쓰기에서만 끊기
 [W3 스펙](https://www.w3.org/TR/css-text-3/#word-break)에 따르면 다음과 같다.
 
 > **‘keep-all’**  
-Implicit soft wrap opportunities between letters are suppressed, i.e. breaks are prohibited between pairs of letters (including those explicitly allowed by ‘line-break’) except where opportunities exist due to dictionary-based breaking. Otherwise this option is equivalent to ‘normal’. In this style, sequences of CJK characters do not break.  
+> Implicit soft wrap opportunities between letters are suppressed, i.e. breaks are prohibited between pairs of letters (including those explicitly allowed by ‘line-break’) except where opportunities exist due to dictionary-based breaking. Otherwise this option is equivalent to ‘normal’. In this style, sequences of CJK characters do not break.
+>
 > > This is sometimes seen in Korean (which uses spaces between words), and is also useful for mixed-script text where CJK snippets are mixed into another language that uses spaces for separation.
 
 요약하면, `word-break: keep-all;`은 한글에서 단어 단위의 줄 변경을 위한 기능이다. 한글의 한국어 용법 이외에 CJK 문자 및 언어, 그러니까 일본어와 중국어는 띄어쓰기를 하지 않기 때문. 공식 스펙에 있는 기능이니 잘 쓰도록 하자.
