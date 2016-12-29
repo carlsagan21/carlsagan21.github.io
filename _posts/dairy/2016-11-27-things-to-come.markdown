@@ -3,7 +3,7 @@ layout: post
 title: 다가오는 것들 (2016)
 ---
 
-원제가 l'avenir. Oula가 avenir는 에서 a는 to, venir는 future의 의미라고 가르쳐 주었다.
+원제가 l'avenir. 저번에 Oula가 avenir는 에서 a는 to, venir는 future의 의미라고 가르쳐 주었다.
 
 그러니까, l'avenir. the future. the things to come.
 
