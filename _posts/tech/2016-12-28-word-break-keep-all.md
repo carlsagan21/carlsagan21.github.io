@@ -17,3 +17,5 @@ title: 글줄을 띄어쓰기에서만 끊기
 > > This is sometimes seen in Korean (which uses spaces between words), and is also useful for mixed-script text where CJK snippets are mixed into another language that uses spaces for separation.
 
 요약하면, `word-break: keep-all;`은 한글에서 단어 단위의 줄 변경을 위한 기능이다. 한글의 한국어 용법 이외에 CJK 문자 및 언어, 그러니까 일본어와 중국어는 띄어쓰기를 하지 않기 때문. 공식 스펙에 있는 기능이니 잘 쓰도록 하자.
+
+ps. 내 블로그에 일본어와 한글이 섞여 있다보니 `keep-all`에서 일본어 줄바꿈이 엉망이다...ㅠ 원래대로 돌아가야 하나.
