@@ -1,6 +1,6 @@
 ---
 layout: post
-title: philosophy of religion translation 02, about 
+title: philosophy of religion translation 02
 ---
 
 translation draft
