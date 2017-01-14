@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 올해의 끝
+published: false
 ---
 
 살다보면 생활을 가로지르는 질문이 있다.
