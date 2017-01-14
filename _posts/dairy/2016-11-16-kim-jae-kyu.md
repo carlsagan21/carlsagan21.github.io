@@ -1,5 +1,4 @@
 ---
-layout: post
 title: <국민들에게>  
 ---
 ...

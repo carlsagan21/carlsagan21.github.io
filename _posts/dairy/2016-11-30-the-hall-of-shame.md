@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 부역자 명단
 ---
 

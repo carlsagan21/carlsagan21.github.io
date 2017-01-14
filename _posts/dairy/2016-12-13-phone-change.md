@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 아이폰 리퍼 받았다
 ---
 
