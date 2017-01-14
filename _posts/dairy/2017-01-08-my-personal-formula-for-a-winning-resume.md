@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 구글의 인사담당 수석 부사장이 전하는 이력서에 필요한 단 한가지 공식(My Personal Formula for a Winning Resume)
 ---
 

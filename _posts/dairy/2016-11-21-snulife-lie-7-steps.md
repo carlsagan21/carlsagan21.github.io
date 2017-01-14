@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 거짓말 7단계 이론
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jorge Bolet, Chopin, Ballade No. 1 in G Minor Op. 23.
 ---
 

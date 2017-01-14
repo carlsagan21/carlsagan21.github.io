@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 한 해가 끝나간다
 ---
 

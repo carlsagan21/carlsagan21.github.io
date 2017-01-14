@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 올해의 끝
 published: false
 ---

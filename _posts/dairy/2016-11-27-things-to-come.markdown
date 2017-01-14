@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 다가오는 것들 (2016)
 ---
 
