@@ -1,6 +1,6 @@
 ---
 title: 교토의 눈
-publish: false
+published: false
 ---
 
 숲은 봄이면 꽃을
