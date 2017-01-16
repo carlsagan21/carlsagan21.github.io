@@ -1,6 +1,9 @@
-$highlight-background-color: #efefef;
+$highlight-background-color: #f7f7f7;
 $highlight-border-color: #ddd;
 $highlight-shadow-color: rgba(0, 0, 0, .1);
+$code-background-color: rgba(0,0,0,0.04);
+$monospace-font-stack: Menlo, Monaco, Consolas, 'Bitstream Vera Sans Mono', 'Courier', monospace;
+// code 백그라운드 컬러 주기. 깃헙 참조.
 
 .highlight {
   background-color: $highlight-background-color;
@@ -14,7 +17,8 @@ $highlight-shadow-color: rgba(0, 0, 0, .1);
 }
 
 code {
-  font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace;
+  background-color: $code-background-color;
+  font-family: $monospace-font-stack;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
