@@ -41,7 +41,7 @@ int a = 1;
 int b = 2;
 a = a + b; // 3
 
-printf("%d", a + 4); // this prints 7, becasue the A 'became' 3.
+printf("%d", a + 4); // this prints 7, because the A 'became' 3.
 ```
 
 프로그래머는 5를 출력하길 원했으나, 실제로 나오는 값은 7이다.
