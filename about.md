@@ -11,7 +11,8 @@ permalink: /about/
 서울대학교 자유전공학부  
 인지종교학 & 컴퓨터공학 전공
 
-Majoring in Cognitive Studies of Religion & Computer Science and Engineering, Seoul National University
+Majoring in Cognitive Studies of Religion & Computer Science and Engineering,  
+College of Liberal Studies, Seoul National University
 
 ### Contact me
 
