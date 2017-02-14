@@ -50,7 +50,7 @@ layout: default
       <i class="fa fa-angle-left" aria-hidden="true"></i>
     </a>
   </li>
-
+  <!--  offset: paginator.page limit: 5 로 페이지네이션 리미트 구현하기 -->
   {% for page_index in (1..paginator.total_pages) %}
     <li
       {% if page_index == paginator.page %}
