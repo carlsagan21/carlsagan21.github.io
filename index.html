@@ -30,7 +30,7 @@ layout: default
   >
     <a
       {% if paginator.previous_page %}
-        href="/"
+        href="{{ site.baseurl }}/"
       {% endif %}
     >
       <i class="fa fa-angle-double-left" aria-hidden="true"></i>
@@ -59,7 +59,7 @@ layout: default
     >
       <a
         {% if page_index == 1 %}
-          href="/"
+          href="{{ site.baseurl }}/"
         {% else %}
           {% unless page_index == paginator.page %}
             href="{{ site.paginate_path | replace: ':num', page_index }}"
