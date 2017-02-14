@@ -1,5 +1,5 @@
 ---
-title: 일본현대철학 기말보고서
+title: Contemporary Philosophy in Japan
 ---
 
 ## Manifestation(立ち現れ) is not a monism that encompasses subjective-objective, but a thorough subjectivism
