@@ -2,7 +2,8 @@
 
 .entry {
   line-height: 1.8;
-  word-break: keep-all;
+  // 일본어 있을 시 깨짐
+  // word-break: keep-all;
 
   table th {
     font-weight: bold;
