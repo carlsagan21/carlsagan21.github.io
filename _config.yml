@@ -78,6 +78,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # pagenation. see 'https://jekyllrb.com/docs/pagination/'
+  # - font-awesome-sass
 
 # Exclude these files from your production _site
 exclude:
@@ -99,3 +101,7 @@ defaults:
       # categories: "etc"
       # tags: "etc"
       # published: "true"
+
+# pagination configs
+paginate: 5
+paginate_path: "/page:num/"
