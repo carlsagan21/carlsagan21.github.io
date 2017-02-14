@@ -1,5 +1,5 @@
 ---
-title: Contemporary Philosophy in Japan
+title: Contemporary Philosophy in Japan Final Paper
 ---
 
 ## Manifestation(立ち現れ) is not a monism that encompasses subjective-objective, but a thorough subjectivism
