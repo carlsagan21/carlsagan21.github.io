@@ -13,7 +13,7 @@ layout: default
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.excerpt | strip_html | truncate: 140 | prepend: "<p>" | append: "</p>" }}
       </div>
 
       <a href="{{ post.url }}" class="read-more">Read More</a>
