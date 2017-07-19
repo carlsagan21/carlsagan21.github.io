@@ -5,7 +5,7 @@ title: 국제정치학 뉴스과제 10
 스리랑카의 내전범죄로 인한 인권 침해 – 국제개입의 가능성의 관점에서
 
 International Herald Tribune, November 13, 2013
-“Sri Lanka’s Climate of Fear” By The Editorial Board
+"Sri Lanka's Climate of Fear" By The Editorial Board
 
 ---
 
@@ -19,7 +19,7 @@ International Herald Tribune, November 13, 2013
 
 #### 자료정리
 
-Since the end of Sri Lanka’s civil war in 2009, the government of President Mahinda Rajapaksa has had a record of serious human rights violations and failed to provide accountability for wartime abuses.
+Since the end of Sri Lanka's civil war in 2009, the government of President Mahinda Rajapaksa has had a record of serious human rights violations and failed to provide accountability for wartime abuses.
 2009년 내전 종식 이후, Mahinda Rajapaksa 대통령 정부는 심각한 인권 침해를 기록했고 전시의 남용에 대한 책임을 제공하는데에 실패하였다.
 
 In August, the United Nations high commissioner for human rights, Navi Pillay, issued scathing observations on the state of human rights in Sri Lanka after her visit there. Ms. Pillay denounced, in particular, attacks on freedom of expression and a climate of fear that is undermining democracy and eroding the rule of law. She has set a deadline of March for the Sri Lankan government to undertake a credible inquiry into reported human rights violations. The government disputes her findings.
@@ -28,16 +28,16 @@ In August, the United Nations high commissioner for human rights, Navi Pillay, i
 Under the Rajapaksa government, journalists have been systematically threatened, harassed, killed or forced into exile in what amounts to a war on the press. Journalists and news organizations that do not toe the official line have their offices sacked, their staff detained, their equipment destroyed and their lives threatened. According to Amnesty International, government and military control of the news media has increased, and journalists have left the profession in droves. Many who remain have adopted self-censorship to survive.
 라자팍사 정부 하에서 언론인들은 시스템적으로 협박, 위협을 당하고 죽거나 추방당했다. 전쟁에 대해 말한 죄로(?). 정부의 가이드라인에 따르지 않는 언론은 크게 위협받고 잇다. 정부와 군이 통제하는 뉴스 미디어가 증가했고, 언론인들은 대규모로 현직을 떠났다.
 
-During elections in September in Northern Province, where much of the country’s ethnic Tamil population lives and where the worst carnage of the civil war took place, the government did everything it could to sabotage a free and fair outcome, including publishing a fake edition of the local newspaper Uthayan. Despite such tactics, the Tamil National Alliance’s decisive victory in the elections demonstrated the strength of the people’s desire for political rights.
+During elections in September in Northern Province, where much of the country's ethnic Tamil population lives and where the worst carnage of the civil war took place, the government did everything it could to sabotage a free and fair outcome, including publishing a fake edition of the local newspaper Uthayan. Despite such tactics, the Tamil National Alliance's decisive victory in the elections demonstrated the strength of the people's desire for political rights.
 9월 북부지방에서의 선거 동안, 타밀 족의 대부분이 거주하는 지역이고, 가장 끔찍한 내전의 학살이 일어났던 지역인, 정부는 자유롭고 공정한 결과를 방해하기위한 가능한 모든 방법을 사용하였다. 지역 신문인 Uthayan의 가짜 본을 만들어 발행하였다. 그런 전략에도 불구하고, 타밀 국가 동맹의 확정적인 선거 승리는 정치적 권리를 위한 people의 욕구의 힘을 보여준다.
 
-Human rights groups have called for a boycott of the Commonwealth Heads of Government Meeting being held in Sri Lanka this week. To their credit, Prime Minister Stephen Harper of Canada and India’s prime minister, Manmohan Singh, announced they would not attend.
+Human rights groups have called for a boycott of the Commonwealth Heads of Government Meeting being held in Sri Lanka this week. To their credit, Prime Minister Stephen Harper of Canada and India's prime minister, Manmohan Singh, announced they would not attend.
 인권 단체들은 이번주에 스리랑카에서 열리는 영연방 정상회의 들을 보이콧 하도록 요청하고 있다. 캐나다와 인도의 수상은 참석을 하지 않겠다고 말했다.
 
-The British prime minister, David Cameron, on the other hand, rejected calls for a boycott. “I think it’s best to turn up and make your argument,” he said this week, saying the visit would draw attention to human rights issues.
+The British prime minister, David Cameron, on the other hand, rejected calls for a boycott. "I think it's best to turn up and make your argument," he said this week, saying the visit would draw attention to human rights issues.
 영국 수상은 보이콧 요청을 거절했다. 내 생각엔 거기에 가서 제안을 하는 것이 효과적일 것 같습니다. 라고 그는 이번주에 말했다. 방문이 인권이슈에 대한 관심을 이끌 것이라고 생각하면서.
 
-The Rajapaksa government is holding up the meeting as proof that the Commonwealth has no problem with its behavior. As the meeting’s host, Sri Lanka will assume chairmanship of the group for the next two years, a prospect that will make a mockery of Commonwealth values.
+The Rajapaksa government is holding up the meeting as proof that the Commonwealth has no problem with its behavior. As the meeting's host, Sri Lanka will assume chairmanship of the group for the next two years, a prospect that will make a mockery of Commonwealth values.
 라자팍사 정부는 보건이 그들의 행동과 아무 관련이 없다는 것을 증며하기 위해 회의를 개최하고 있다. 회의의 개최국으로서, 스리랑카는 다음 두 해 동안 그룹의 의장직을 맡을 것으로 보이고, 이는 보건 가치에 대한 조롱이 될 것이다.
 
 Leaders attending the meeting must insist, at the very least, that the Sri Lankan government show meaningful progress in addressing human rights abuses, abiding by international standards and restoring constitutional protection for freedom of expression.

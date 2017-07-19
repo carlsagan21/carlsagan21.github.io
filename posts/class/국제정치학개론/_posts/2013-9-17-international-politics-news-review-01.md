@@ -2,7 +2,7 @@
 title: 국제정치학 뉴스과제 01
 ---
 
-JapanTimes “Abe calls for debate on collective defense”(SEP 12, 2013)
+JapanTimes "Abe calls for debate on collective defense"(SEP 12, 2013)
 <http://www.japantimes.co.jp/news/2013/09/12/national/abe-calls-for-debate-on-collective-defense/#.UjbKBNJT5ik>
 
 ---
@@ -28,20 +28,20 @@ JapanTimes “Abe calls for debate on collective defense”(SEP 12, 2013)
 Prime Minister Shinzo Abe said Thursday that Japan must consider what role it should play in global affairs as he expressed a willingness to advance the national debate on lifting the self-imposed ban on collective self-defense.
 아베수상은 일본이 집단자위권에 스스로 부여한 제한을 해제하는데에 있어서 국가적인 토론이 진행되어야 한다는 의견을 밝힘으로서 국제관계에서 어떤 역할을 해야하는 지에 대해 고려해야 한다고 말했다.
 
-“We will consider and pursue where Japan should stand in global affairs in the 21st century,” Abe told a gathering of senior officials and Self-Defense Forces personnel at the Defense Ministry.
-“우리는 21세기에 국제관계에서 어디에 일본이 서야하는지 고려하고 추구할 것입니다” 아베는 방위성에서 자위대 senior officials의 모임에서 말했다.
+"We will consider and pursue where Japan should stand in global affairs in the 21st century," Abe told a gathering of senior officials and Self-Defense Forces personnel at the Defense Ministry.
+"우리는 21세기에 국제관계에서 어디에 일본이 서야하는지 고려하고 추구할 것입니다" 아베는 방위성에서 자위대 senior officials의 모임에서 말했다.
 
-Security concerns posed by China and North Korea have prompted Abe to start a review of Japan’s defense posture to cope with the changing regional security environment. He has revived a government panel to discuss whether to enable Japan to exercise the U.N. right of collective self-defense, or coming to the aid of an ally that is under armed attack.
+Security concerns posed by China and North Korea have prompted Abe to start a review of Japan's defense posture to cope with the changing regional security environment. He has revived a government panel to discuss whether to enable Japan to exercise the U.N. right of collective self-defense, or coming to the aid of an ally that is under armed attack.
 중국과 북한으로 인한 안보 위협이 아베로 하여금 변화하는 지역적 안보 환경에 대응하기 위해 일본의 방어 태세를 재고하도록 했다.
 
 The current interpretation of the pacifist Constitution does not permit the right to be exercised on the grounds that doing so would likely require Japan to use more than the minimum amount of force necessary to defend Japan. Article 9 of the Constitution bans the use of force to settle international disputes.
 현행 평화헌법의 해석은 육지에서의 군사행동(근본적으로 군사행동을)을 허용하지 않기 때문에, 그렇게 하는 것은 일본으로 하여금 일본을 방어하는 최소한의 군사력 이상을 요구할 것으로 보인다. 헌법의 9조는 국제분쟁을 해결하기위한 군사행동을 금지한다.
 
-To coordinate Japan’s response to security threats, the administration is seeking to pass a bill to establish a Japanese version of the U.S. National Security Council, and to draw up a national security strategy as the basis for the country’s security policy.
+To coordinate Japan's response to security threats, the administration is seeking to pass a bill to establish a Japanese version of the U.S. National Security Council, and to draw up a national security strategy as the basis for the country's security policy.
 안보위협에 대한 일본의 반응에 대응하기 위해, 행정부는 미국의 국가 안보 회의의 일본판을 설립하는 법안을 통과시키고, 국가의 안보 정책의 기반으로서 국가안보전략을 세우려고 하고 있다.
 
-“We will define national interests from a long-term perspective, and will formulate a national security strategy to ensure national safety,” Abe said.
-“우리는 국익을 장기적 관점에서 정의할것입니다. 그리고 국가의 안전을 보장하는 국가 안보 전략을 수립할 것입니다.” 라고 아베는 말했다.
+"We will define national interests from a long-term perspective, and will formulate a national security strategy to ensure national safety," Abe said.
+"우리는 국익을 장기적 관점에서 정의할것입니다. 그리고 국가의 안전을 보장하는 국가 안보 전략을 수립할 것입니다." 라고 아베는 말했다.
 
 His remarks came a day after the one-year anniversary of the nationalization of three of the five Senkaku Islands.
 그의 발언은 센카쿠 열도의 5개중 3개의 섬을 국유화한 1주년 기념일 다음날 나왔다.
@@ -49,11 +49,11 @@ His remarks came a day after the one-year anniversary of the nationalization of 
 The transfer of ownership from their private owner to the central government raised hackles in China, which has continued to send patrol airplanes and ships to the uninhabited islets in protest. A panel was scheduled to meet with the prime minister and Cabinet members later Thursday to discuss national security strategy.
 사유지를 중앙정부의 국유지화 한 것은 그 무인도로 항의의 의미로 순찰선과 비행기를 보내기를 계속해왔던 중국의 분노를 불렀다. 토론진은 목요일 수상과 내각을 만나 국가 안보 전력에 대해 토론하기로 계획되어 있다.
 
-“We will cooperate with countries that share the same values — the rule of law, and freedom of the sea, and strengthen our bonds in security,” Abe said in an apparent reference to China’s growing assertiveness in the East and South China Seas.
-“우리는 법치주의, 해상의 자유, 안보에서의 연대 강화라는 같은 가치를 공유하는 국가들과 협력할 것입니다.” 아베가 중국의 동, 남 중국해에서의 증가하는 공격적인 행동에 대한 분명한 언급에서 말하였다.
+"We will cooperate with countries that share the same values — the rule of law, and freedom of the sea, and strengthen our bonds in security," Abe said in an apparent reference to China's growing assertiveness in the East and South China Seas.
+"우리는 법치주의, 해상의 자유, 안보에서의 연대 강화라는 같은 가치를 공유하는 국가들과 협력할 것입니다." 아베가 중국의 동, 남 중국해에서의 증가하는 공격적인 행동에 대한 분명한 언급에서 말하였다.
 
-“Japan needs to face reality and rebuild our security framework,” he added.
-“일본은 현실을 마주하고 안보 체계를 재건설할 필요가 있습니다.”라고 그는 덧붙였다.
+"Japan needs to face reality and rebuild our security framework," he added.
+"일본은 현실을 마주하고 안보 체계를 재건설할 필요가 있습니다."라고 그는 덧붙였다.
 
-But as Abe seeks to bolster Japan’s defense capabilities, his ruling Liberal Democratic Party must win the support of coalition partner New Komeito, which has remained cautious about re-interpreting the Constitution or changing war-renouncing Article 9.
+But as Abe seeks to bolster Japan's defense capabilities, his ruling Liberal Democratic Party must win the support of coalition partner New Komeito, which has remained cautious about re-interpreting the Constitution or changing war-renouncing Article 9.
 하지만 아베가 일본의 방어능력을 강화하려면, 여당인 자민당은 헌법의 재해석과 제 9조의 반전조항을 바꾸는 것에 조심스러운 연정 파트너인 공명당의 지지를 얻어야만 한다.

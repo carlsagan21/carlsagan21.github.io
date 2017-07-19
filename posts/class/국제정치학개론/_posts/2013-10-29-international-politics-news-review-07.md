@@ -5,7 +5,7 @@ title: 국제정치학 뉴스과제 07
 미국의 對 이란 전략 – 이슈 특정형 권력 구조 분석을 중심으로
 
 International Herald Tribune, October 23, 2013
-“Criticism of United States’ Mideast Policy Increasingly Comes From Allies” By MICHAEL R. GORDON
+"Criticism of United States' Mideast Policy Increasingly Comes From Allies" By MICHAEL R. GORDON
 
 ---
 
@@ -19,7 +19,7 @@ International Herald Tribune, October 23, 2013
 
 #### 자료정리
 
-중동에서 미국의 동맹국들이 전간기에 히틀러가 세력을 키우던 당시를 회고하며, ‘의도’에 방점을 맞추는 것이 국제정치에서 얼마나 위험한지를 인지한다면, 미국이 자신의 의도를 지속적으로 밝히는 것은 관계개선에 하등 도움이 되지 않을 것이다. 미국의 의도야 어떻든, 이란과의 협상, 시리아에 대한 개입 보류, 그리고 이집트 군부에 대한 반대의사는 동맹국들의 심중을 뒤흔들기에 충분하다. 세계 최대의 산유국 중 하나인 사우디아라비아의 강력한 반발은 미국의 오랜 동맹인 유럽까지 미국에 대해 불안감을 가지도록 하고 있다.
+중동에서 미국의 동맹국들이 전간기에 히틀러가 세력을 키우던 당시를 회고하며, '의도'에 방점을 맞추는 것이 국제정치에서 얼마나 위험한지를 인지한다면, 미국이 자신의 의도를 지속적으로 밝히는 것은 관계개선에 하등 도움이 되지 않을 것이다. 미국의 의도야 어떻든, 이란과의 협상, 시리아에 대한 개입 보류, 그리고 이집트 군부에 대한 반대의사는 동맹국들의 심중을 뒤흔들기에 충분하다. 세계 최대의 산유국 중 하나인 사우디아라비아의 강력한 반발은 미국의 오랜 동맹인 유럽까지 미국에 대해 불안감을 가지도록 하고 있다.
 포인트 : 미국의 의도와는 관계없이 상황은 진행될 것 / 이란,사우디,이스라엘이 상대적 약소국임에도 협상이 가능한 까닭
 
 미국의 중동 정책에 대한 동맹들의 비판 증가
@@ -40,7 +40,7 @@ International Herald Tribune, October 23, 2013
 
 미국-아랍 관계에 대한 국가적인 위원회에 의해 열리는 연래 아랍-미국 정책결정자 회의에서의 발언에서, 사우디아라비아의 전직 스파이 수장이면서 미국 대사였던 .....는, 또한 백악관이 아사드 정권에 대해 미사일 공격을 가하는 대신 시리아의 화학무기를 제거하는 합의를 수용했다고 불평했다.
 
-“바샤의 화학 무기에 대한 국제적인 통제라는 현재의 가면은, ........”라고 말했다.
+"바샤의 화학 무기에 대한 국제적인 통제라는 현재의 가면은, ........"라고 말했다.
 
 이러한 발언들은 시리아에 대한 서방의 정책에 저항하기위한 사우디아라비아의 유엔 비상임이사 자리를 거부하는 결정 뒤에 나왔다.
 
@@ -68,10 +68,10 @@ International Herald Tribune, October 23, 2013
 
 이란은 우라늄을 농축하는 그들의 권리를 협상된 동의의 한 부분으로 주장.
 
-미국은 그러한 그들의 ‘권리’에 대해 공식적으로 언급하지 않는다. 하지만 네타냐후의 제안보다는 훨씬 좋은 조건으로 협상하려 한다.
+미국은 그러한 그들의 '권리'에 대해 공식적으로 언급하지 않는다. 하지만 네타냐후의 제안보다는 훨씬 좋은 조건으로 협상하려 한다.
 
 미국와 이스라엘의 의견 불일치는 해결하기 쉽지 않다. 11.7일에 제네바에서 미국과 다른 강대국들은 이란과 대화를 재개하기로 계획되어있다.
-Criticism of United States’ Mideast Policy Increasingly Comes From Allies
+Criticism of United States' Mideast Policy Increasingly Comes From Allies
 미국의 중동 정책에 대한 동맹들의 비판 증가
 By MICHAEL R. GORDON
 Published: October 23, 2013 349 Comments
@@ -85,49 +85,49 @@ During stops in Paris and London this week, Secretary of State John Kerry found 
 And during a stop in Rome, Mr. Kerry sought to reassure Prime Minister Benjamin Netanyahu of Israel that the Obama administration would not drop its guard in the newly invigorated nuclear talks with Iran.
 로마에서는, 캐리는 이스라엘의 벤자민 네타냐후 총리를 안심시키려 노력해야만 했다. 오바마 정부가 이스라엘에 대한 방어를 풀지 않을 것이라고. 이란과의 새롭게 활기를 띠는 핵관련 대화에서.
 
-Mr. Kerry’s comments appeared to do little to persuade Mr. Netanyahu, whose demands that Iran dismantle its nuclear program are tougher than any compromise that the United States and other world powers seem prepared to explore as they seek a deal with Iran’s new president.
+Mr. Kerry's comments appeared to do little to persuade Mr. Netanyahu, whose demands that Iran dismantle its nuclear program are tougher than any compromise that the United States and other world powers seem prepared to explore as they seek a deal with Iran's new president.
 캐리의 말은 네타냐후를 설득하지 못한 것으로 보인다. 네타냐후는 이란의 핵 프로그램의 해체는 미국이나 다른 강국들이 보는 것 보다 어렵다. 이란과 협상하려 하면 할수록.
 
-But the criticism by Saudi officials has been the most vehement, as they have waged a campaign against the United States’ policy in the Middle East in private comments to diplomats and reporters, as well as in public remarks by a former intelligence official.
+But the criticism by Saudi officials has been the most vehement, as they have waged a campaign against the United States' policy in the Middle East in private comments to diplomats and reporters, as well as in public remarks by a former intelligence official.
 하지만 사우디아라비아 관계자의 비판은 훨씬 격렬했다. 그들은 미국의 중동에 대한 정책에 반하는 모금 캠페인을 벌인다. 사적으로나 공적으로나 비판이 가중된다.
 
-Saudi officials have made it clear they are frustrated with the Obama administration — not just for its reluctance to do more to aid the rebels fighting President Bashar al-Assad of Syria, and not just for its willingness to engage Iran in negotiations, but also for its refusal to endorse the Egyptian military’s ouster of President Mohamed Morsi and the crackdown on Mr. Morsi’s Muslim Brotherhood party.
+Saudi officials have made it clear they are frustrated with the Obama administration — not just for its reluctance to do more to aid the rebels fighting President Bashar al-Assad of Syria, and not just for its willingness to engage Iran in negotiations, but also for its refusal to endorse the Egyptian military's ouster of President Mohamed Morsi and the crackdown on Mr. Morsi's Muslim Brotherhood party.
 사우디 정부는 오바마정부에 대해 실망했다고 말했다. 시리아에서 알 아사드 정권에 맞서는 저항군들을 더 지원하기를 꺼리는 것 뿐만 아니라, 이란과의 협상에 참여하려는 것 뿐만 아니라, 모하마드 몰시 대통령에 대한 이집트 군부의 축출과 몰시의 무슬림 형제단의 몰락을 지지하기를 거부했다고.
 
 Beyond criticism, the Saudis have been working against American policy in Egypt by providing billions of dollars in assistance to the authorities in Cairo, which has more than made up for aid the United States has withheld after the Egyptian military deposed Mr. Morsi. Mr. Kerry and other American officials have insisted that the United States was right to work with Mr. Morsi after he took office as the duly elected president.
 비판을 넘어, 사우디아라비아는 이집트에서 미국의 정책에 반하여 행동해왔다. 카이로에 있는 권력자들에게 수십억 달러를 제공하면서. 미국이 이집트 군부가 몰시를 추방한 이후 중단한 지원보다 더 많은 수치이다. 캐리와 다른 미국 정부관계자들은 몰시가 적법하게 선거로 선출된 대통령이면 임무를 수행할 권한이 있다고 주장해왔다.
 
-In a speech on Tuesday at the annual Arab-U.S. Policymakers Conference held by the National Council on U.S.-Arab Relations, Saudi Arabia’s former spy chief and ambassador to the United States, Prince Turki al-Faisal, also complained about the White House’s decision to embrace an agreement to eliminate Syria’s chemical weapons instead of carrying out a cruise missile strike against Mr. Assad’s forces.
+In a speech on Tuesday at the annual Arab-U.S. Policymakers Conference held by the National Council on U.S.-Arab Relations, Saudi Arabia's former spy chief and ambassador to the United States, Prince Turki al-Faisal, also complained about the White House's decision to embrace an agreement to eliminate Syria's chemical weapons instead of carrying out a cruise missile strike against Mr. Assad's forces.
 미국-아랍 관계에 대한 국가적인 위원회에 의해 열리는 연래 아랍-미국 정책결정자 회의에서의 발언에서, 사우디아라비아의 전직 스파이 수장이면서 미국 대사였던 .....는, 또한 백악관이 아사드 정권에 대해 미사일 공격을 가하는 대신 시리아의 화학무기를 제거하는 합의를 수용했다고 불평했다.
 
-“The current charade of international control over Bashar’s chemical arsenal would be funny if it were not so blatantly perfidious, and designed not only to give Mr. Obama an opportunity to back down but also to help Assad to butcher his people,” said Prince Turki, a member of the Saudi royal family and a former director of Saudi intelligence.
-“바샤의 화학 무기에 대한 국제적인 통제라는 현재의 가면은, ........”라고 말했다.
+"The current charade of international control over Bashar's chemical arsenal would be funny if it were not so blatantly perfidious, and designed not only to give Mr. Obama an opportunity to back down but also to help Assad to butcher his people," said Prince Turki, a member of the Saudi royal family and a former director of Saudi intelligence.
+"바샤의 화학 무기에 대한 국제적인 통제라는 현재의 가면은, ........"라고 말했다.
 
-Those comments followed Saudi Arabia’s decision to protest the West’s policy on Syria by rejecting a seat on the United Nations Security Council.
+Those comments followed Saudi Arabia's decision to protest the West's policy on Syria by rejecting a seat on the United Nations Security Council.
 이러한 발언들은 시리아에 대한 서방의 정책에 저항하기위한 사우디아라비아의 유엔 비상임이사 자리를 거부하는 결정 뒤에 나왔다.
 
-Some Middle East experts said that the unease over American policy went beyond the details of the United States’ position on Syria or a potential nuclear deal with Iran. It is also fueled, they say, by the perception that the Obama administration’s policy is grounded in the desire to avoid diplomatic and especially military confrontations in the Middle East.
+Some Middle East experts said that the unease over American policy went beyond the details of the United States' position on Syria or a potential nuclear deal with Iran. It is also fueled, they say, by the perception that the Obama administration's policy is grounded in the desire to avoid diplomatic and especially military confrontations in the Middle East.
 몇몇 중동 전문가들은 미국의 정책에 대한 불안감이 미국의 시리아에서의 지위에 대한 상세함과 이란과의 잠재적인 핵협상에 대한 것보다 더 나아갔다고. 또한 이러한 불안감은 더욱 증폭되었다. 오바마 정부가 중동에서의 외교적 특히 군사적 대결을 피하고자한다는 점에서.
 
-“There is a lot of confusion and lack of clarity amongst U.S. allies in the Middle East regarding Washington’s true intentions and ultimate objectives,” said Robert M. Danin, a senior fellow at the Council on Foreign Relations who was a State Department official on Middle East issues during both Democratic and Republican administrations. “There is also widespread unease throughout the Middle East, shared by many U.S. allies, that the United States’ primary objectives when it comes to Iran, Egypt or Syria are to avoid serious confrontation.”
+"There is a lot of confusion and lack of clarity amongst U.S. allies in the Middle East regarding Washington's true intentions and ultimate objectives," said Robert M. Danin, a senior fellow at the Council on Foreign Relations who was a State Department official on Middle East issues during both Democratic and Republican administrations. "There is also widespread unease throughout the Middle East, shared by many U.S. allies, that the United States' primary objectives when it comes to Iran, Egypt or Syria are to avoid serious confrontation."
 워싱턴의 진짜 의도와 궁극적인 목적에 대한 동맹국들의 혼란이 있다. 불신이 중동에 퍼져있다. 미국의 우선 목표가 이란, 이집트, 시리아에 대해서 심각한 대결을 피하는 것이라는.
 
-On his trip through Europe, Mr. Kerry repeatedly sought to counter the impression that the Obama administration was ducking tough challenges. In a news conference in London on Tuesday, he acknowledged that the Saudis were “disappointed” that the administration had pulled back from its threats of a cruise missile attack against Syrian forces and seized instead on a Russian initiative to end Syria’s chemical weapons program.
+On his trip through Europe, Mr. Kerry repeatedly sought to counter the impression that the Obama administration was ducking tough challenges. In a news conference in London on Tuesday, he acknowledged that the Saudis were "disappointed" that the administration had pulled back from its threats of a cruise missile attack against Syrian forces and seized instead on a Russian initiative to end Syria's chemical weapons program.
 런던에서의 컨퍼런스에서, 사우디가 실망했다는 것에 대해 알고있다고 말했다. 미사일을 쏘지 않고 러시아의 제안을 받아들인 것에 대해.
 
-Mr. Kerry said he had discussed Saudi officials’ concerns with Prince Saud al-Faisal, the Saudi foreign minister, in Paris on Monday, and insisted that the two countries were now “on the same page” on the need to convene a peace conference that would seek a political settlement to end the civil war in Syria.
+Mr. Kerry said he had discussed Saudi officials' concerns with Prince Saud al-Faisal, the Saudi foreign minister, in Paris on Monday, and insisted that the two countries were now "on the same page" on the need to convene a peace conference that would seek a political settlement to end the civil war in Syria.
 미국과 사우디는 시리아의 내전을 끝내기 위한 평화회의를 소집할 필요가 있다는 점에서 같은 입장에 서있다고 말했다.
 
-American and other Western officials say the elimination of Mr. Assad’s stockpiles of poison gas would be a major accomplishment.
+American and other Western officials say the elimination of Mr. Assad's stockpiles of poison gas would be a major accomplishment.
 아사드의 독가스를 없앤 것은 주요 성과라고 미국과 다른 서방국가들은 평했다.
 
-On Iran, Saudi Arabia’s concerns that the United States might not be firm enough in nuclear negotiations appear to echo Israel’s. Mr. Kerry sought to assuage those worries as well.
+On Iran, Saudi Arabia's concerns that the United States might not be firm enough in nuclear negotiations appear to echo Israel's. Mr. Kerry sought to assuage those worries as well.
 이란에 대해서는, 사우디아라비아는 미국이 이스라엘의 말에서 드러나듯이 핵 협상에서 완고하지 못할까봐 걱정한다. 캐리는 이러한 우려 또한 안심시키려고 노력했다.
 
-“President Obama has said a number of times, and I reiterate today, no deal is better than a bad deal,” he said on Wednesday as he tried to reassure Mr. Netanyahu that the United States was taking a sober view of the possibility of a nuclear breakthrough with Iran.
+"President Obama has said a number of times, and I reiterate today, no deal is better than a bad deal," he said on Wednesday as he tried to reassure Mr. Netanyahu that the United States was taking a sober view of the possibility of a nuclear breakthrough with Iran.
 오바마는 수없이 말했다, 그리고 나는 다시 말한다. 나쁜 협상보다는 협상을 하지 않는 것이 낫다. 네타냐후를 안심시키려고 노력하면서 말했다. 미국은 이란과의 핵위기 탈피의 가능성을 진지하게 바라보고 있다고.
 
-“But if this can be solved satisfactorily, diplomatically, it is clearly better for everyone,” Mr. Kerry added before beginning a seven-hour meeting with the Israeli prime minister at the residence of the American ambassador here. “And we are looking for an opportunity to be able to do that.”
+"But if this can be solved satisfactorily, diplomatically, it is clearly better for everyone," Mr. Kerry added before beginning a seven-hour meeting with the Israeli prime minister at the residence of the American ambassador here. "And we are looking for an opportunity to be able to do that."
 하지만 그것이 만족스럽게, 외교적으로 해결될 수 있다면, 그것은 누구에게나 좋은 것이다. 우리는 그렇게 할 수 있는 기회를 찾고 있다.
 
 Mr. Netanyahu said he welcomed those general sentiments, but went on to list steps that he said Iran needed to take to assure the world that it was not pursuing nuclear weapons.
@@ -136,14 +136,14 @@ Mr. Netanyahu said he welcomed those general sentiments, but went on to list ste
 He called on Iran to get rid of all its fissile material, close its underground nuclear facilities and abandon its construction of a heavy-water plant that would produce plutonium. He also said Iran should not be allowed to have any centrifuges to enrich uranium.
 그는 이란이 그들의 모든 핵분열 물질들을 제거해야한다고 요청했다. 지하 핵 시설을 닫고, 플루토늄을 만들 수 있는 중수로원전의 건설을 폐기해야 한다. 또한 이란이 우라늄을 농축할 수 있는 어떠한 원심분리기도 가져선 안된다고 말했다.
 
-Having set out these broad demands, Mr. Netanyahu argued that it would be a “tragic mistake” to end international sanctions against Iran in return for a “partial deal.”
+Having set out these broad demands, Mr. Netanyahu argued that it would be a "tragic mistake" to end international sanctions against Iran in return for a "partial deal."
 이러한 요청을 마무리하면서, 네타냐후는 부분적인 거래에 대한 보상으로 이란의 국제적인 제제를 멈추는 것은 끔찍한 실수가 될 것이라고 말했다.
 
-Iran, by contrast, has insisted that the West acknowledge what it says is its right to enrich uranium as part of a negotiated compromise that would put limits on the nation’s nuclear program.
+Iran, by contrast, has insisted that the West acknowledge what it says is its right to enrich uranium as part of a negotiated compromise that would put limits on the nation's nuclear program.
 이란은 우라늄을 농축하는 그들의 권리를 협상된 동의의 한 부분으로 주장.
 
-American officials did not publicly acknowledge that “right” in talks with Iranian officials in Geneva last week, but it is clear that the United States and other world powers are willing to explore a deal that is far less stringent than the one Mr. Netanyahu proposed.
-미국은 그러한 그들의 ‘권리’에 대해 공식적으로 언급하지 않는다. 하지만 네타냐후의 제안보다는 훨씬 좋은 조건으로 협상하려 한다.
+American officials did not publicly acknowledge that "right" in talks with Iranian officials in Geneva last week, but it is clear that the United States and other world powers are willing to explore a deal that is far less stringent than the one Mr. Netanyahu proposed.
+미국은 그러한 그들의 '권리'에 대해 공식적으로 언급하지 않는다. 하지만 네타냐후의 제안보다는 훨씬 좋은 조건으로 협상하려 한다.
 
 The disagreements between the United States and Israel will not be easy to finesse. The United States and other world powers are scheduled to resume talks with Iran in Geneva on Nov. 7.
 미국와 이스라엘의 의견 불일치는 해결하기 쉽지 않다. 11.7일에 제네바에서 미국과 다른 강대국들은 이란과 대화를 재개하기로 계획되어있다.

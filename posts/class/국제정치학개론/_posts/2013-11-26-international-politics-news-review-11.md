@@ -5,7 +5,7 @@ title: 국제정치학 뉴스과제 11
 동아시아 갈등문제에 대한 해결방안 – 미군 철수/일본 자위대의 한반도 주둔
 
 International Herald Tribune, November 23, 2013
-“A Growing Chill Between South Korea and Japan Creates Problems for the U.S.” By Martin Fackler and Choe Sang-Hun
+"A Growing Chill Between South Korea and Japan Creates Problems for the U.S." By Martin Fackler and Choe Sang-Hun
 
 ---
 
@@ -23,31 +23,31 @@ International Herald Tribune, November 23, 2013
 
 TOKYO — In the courtly world of diplomacy, the meeting between Defense Secretary Chuck Hagel and President Park Geun-hye of South Korea was something of a shock.
 
-Mr. Hagel was in the region to try to revitalize America’s faltering “pivot” to Asia and had one especially pressing request for Ms. Park: to try to get along better with Japan. The steely Ms. Park instead delivered a lecture about Japan’s “total absence of sincerity” over the suffering that imperial Japan caused Korea in the last century and finished with a request of her own: that Washington force Tokyo to behave.
+Mr. Hagel was in the region to try to revitalize America's faltering "pivot" to Asia and had one especially pressing request for Ms. Park: to try to get along better with Japan. The steely Ms. Park instead delivered a lecture about Japan's "total absence of sincerity" over the suffering that imperial Japan caused Korea in the last century and finished with a request of her own: that Washington force Tokyo to behave.
 
-“If Germany had continued to say things that inflicted pain, while acting as if all was well, would European integration have been possible?” she asked Mr. Hagel. “I think the answer is no.”
+"If Germany had continued to say things that inflicted pain, while acting as if all was well, would European integration have been possible?" she asked Mr. Hagel. "I think the answer is no."
 
-Ms. Park’s refusal to budge during that September meeting was one of many recent reminders that the leaders of Japan and South Korea, the United States’ closest military partners in Asia, seem to be barely on speaking terms. Analysts say the current tensions are among the worst in recent years, an increasingly vexing problem for the Obama administration as it struggles to present a united front in dealing with a rising China and a nuclear North Korea.
+Ms. Park's refusal to budge during that September meeting was one of many recent reminders that the leaders of Japan and South Korea, the United States' closest military partners in Asia, seem to be barely on speaking terms. Analysts say the current tensions are among the worst in recent years, an increasingly vexing problem for the Obama administration as it struggles to present a united front in dealing with a rising China and a nuclear North Korea.
 
-This month, a rare meeting of Japan’s and South Korea’s top defense officials ended in an impasse, with harsh words and no progress on an intelligence-sharing deal the United States had been pushing for years.
+This month, a rare meeting of Japan's and South Korea's top defense officials ended in an impasse, with harsh words and no progress on an intelligence-sharing deal the United States had been pushing for years.
 
-Ms. Park went so far as bringing China into the fracas, even as the Japanese and Chinese feuded over disputed islands. She asked China’s leader during a summit meeting to erect a monument to a Korean national hero who assassinated the first prime minister of Japan for his role in the Japanese colonization of Korea. The Chinese complied. It has also not been lost on the Japanese that Ms. Park held the summit meeting with China’s leader while she continued to refuse to do the same with Japan’s prime minister, breaking a longstanding tradition of Korean and Japanese leaders meeting soon after taking office.
+Ms. Park went so far as bringing China into the fracas, even as the Japanese and Chinese feuded over disputed islands. She asked China's leader during a summit meeting to erect a monument to a Korean national hero who assassinated the first prime minister of Japan for his role in the Japanese colonization of Korea. The Chinese complied. It has also not been lost on the Japanese that Ms. Park held the summit meeting with China's leader while she continued to refuse to do the same with Japan's prime minister, breaking a longstanding tradition of Korean and Japanese leaders meeting soon after taking office.
 
-“History issues are having impacts on us and our alliances in Asia in ways that we never anticipated,” said Thomas Berger, an associate professor of international relations at Boston University.
+"History issues are having impacts on us and our alliances in Asia in ways that we never anticipated," said Thomas Berger, an associate professor of international relations at Boston University.
 
-While history has long haunted relations between Japan and South Korea, the recent chill is being driven partly by the very pivot to Asia that increasingly makes the administration anxious that its allies get along. To bolster its attempts to contain China’s territorial ambitions, the United States has supported Japan’s moves to strengthen its armed forces despite South Korea’s fear that Japan is reverting to militarism.
+While history has long haunted relations between Japan and South Korea, the recent chill is being driven partly by the very pivot to Asia that increasingly makes the administration anxious that its allies get along. To bolster its attempts to contain China's territorial ambitions, the United States has supported Japan's moves to strengthen its armed forces despite South Korea's fear that Japan is reverting to militarism.
 
 But beyond the policy irritants, the frustrations in the two countries seem very much rooted in the personal history of their new, and conservative, leaders.
 
-The Japanese prime minister, Shinzo Abe, is a rightist who has long sought to have his country’s World War II-era history portrayed in a more positive light. He is driven, analysts say, by a deep desire to exonerate his grandfather, an architect of Japanese empire-building in the 1930s who was eventually arrested as a war criminal by Japan’s American occupiers, before becoming prime minister.
+The Japanese prime minister, Shinzo Abe, is a rightist who has long sought to have his country's World War II-era history portrayed in a more positive light. He is driven, analysts say, by a deep desire to exonerate his grandfather, an architect of Japanese empire-building in the 1930s who was eventually arrested as a war criminal by Japan's American occupiers, before becoming prime minister.
 
-Ms. Park carries her own historical baggage. As the daughter of Park Chung-hee, a military ruler who served as an officer in the Imperial Japanese Army while Korea was still a colony, she is under constant pressure to distance herself from her father’s ties to Japan.
+Ms. Park carries her own historical baggage. As the daughter of Park Chung-hee, a military ruler who served as an officer in the Imperial Japanese Army while Korea was still a colony, she is under constant pressure to distance herself from her father's ties to Japan.
 
-“Neither Park nor Abe can come together for personal reasons that run across generations,” said Mikio Haruna, a politics professor at Waseda University in Tokyo. “And this fact is driving Washington up a wall.”
+"Neither Park nor Abe can come together for personal reasons that run across generations," said Mikio Haruna, a politics professor at Waseda University in Tokyo. "And this fact is driving Washington up a wall."
 
-The lack of communication, analysts and American officials say, has practical ramifications, including a setback of American efforts to nudge the two countries’ militaries to work together. Such cooperation, which is very limited, would be crucial during any regional conflict.
+The lack of communication, analysts and American officials say, has practical ramifications, including a setback of American efforts to nudge the two countries' militaries to work together. Such cooperation, which is very limited, would be crucial during any regional conflict.
 
-“The headwind created by these tensions over history raise the political cost of Japan-Korea cooperation that should be a given,” said Daniel R. Russel, assistant secretary of state for East Asian and Pacific affairs.
+"The headwind created by these tensions over history raise the political cost of Japan-Korea cooperation that should be a given," said Daniel R. Russel, assistant secretary of state for East Asian and Pacific affairs.
 
 For its part, South Korea wants to avoid any regional conflict and is reluctant to take sides in the rising tensions between China, its largest trading partner, and Japan, its third largest.
 
@@ -57,10 +57,10 @@ Analysts say that there is no personal bad blood between Ms. Park and Mr. Abe, t
 
 Mr. Abe has not visited the shrine since taking office but has sent offerings on special days, feeding South Korean suspicions that although he has toned down his rhetoric, his hawkish stances have not changed.
 
-But the legacy of the collaboration by Ms. Park’s father makes it even tougher for her to compromise, experts say. “For President Park, the negative legacy carries a huge domestic political risk,” said Park Cheol-hee, director of the Institute for Japanese Studies at Seoul National University.
+But the legacy of the collaboration by Ms. Park's father makes it even tougher for her to compromise, experts say. "For President Park, the negative legacy carries a huge domestic political risk," said Park Cheol-hee, director of the Institute for Japanese Studies at Seoul National University.
 
-Korean leaders have made it clear that ties can be improved only if the Japanese prime minister admits to greater government responsibility for past offenses and agrees to pay compensation to the surviving “comfort women.”
+Korean leaders have made it clear that ties can be improved only if the Japanese prime minister admits to greater government responsibility for past offenses and agrees to pay compensation to the surviving "comfort women."
 
 That may be the one thing Mr. Abe cannot do. This is also a highly emotional issue for the Japanese ultraconservatives who form his political base; the nationalists see it as a fabrication used to help paint their nation as the villain in World War II. (Their take is that Japan was fighting to liberate Asia from European and American imperialism.)
 
-Referring to the historical entanglements, Mr. Berger said, “These are chronic problems that only seem to be getting worse.”
+Referring to the historical entanglements, Mr. Berger said, "These are chronic problems that only seem to be getting worse."
