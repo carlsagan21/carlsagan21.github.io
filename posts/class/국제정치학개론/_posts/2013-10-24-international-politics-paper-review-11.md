@@ -16,16 +16,16 @@ Kaplan에 따르면 북한은 이라크의 선례를 살펴볼 때 붕괴에 점
 
 #### 자료 정리
 
-V. cha and D. Kang, “Debating North Korea: Can North Korea be Engaged?” Survival, Vol. 46, No.2 (Summer 2004), pp.89-108
+V. cha and D. Kang, "Debating North Korea: Can North Korea be Engaged?" Survival, Vol. 46, No.2 (Summer 2004), pp.89-108
 9. 소련의 대한반도 정책 선회
 
-Yoon Young-kwan, “Realism on North Korea,” Project Syndicate, Apr. 1, 2013.
+Yoon Young-kwan, "Realism on North Korea," Project Syndicate, Apr. 1, 2013.
 9. 소련의 대한반도 정책 선회
 
-Mike Chinoy, Meltdown (New York: St. Martin’s Press, 2008), pp.167-91.
+Mike Chinoy, Meltdown (New York: St. Martin's Press, 2008), pp.167-91.
 9. 소련의 대한반도 정책 선회
 
-Robert D. Kaplan, “When North Korea Falls,” The Atlantic Monthly, October 2006.
+Robert D. Kaplan, "When North Korea Falls," The Atlantic Monthly, October 2006.
 
 9.  소련의 대한반도 정책 선회
 1) 변화의 근원
@@ -65,7 +65,7 @@ Robert D. Kaplan, “When North Korea Falls,” The Atlantic Monthly, October 20
 
 13. 핵무기를 둘러싼 막판 대결
 북한정부는 협상력을 높이는데에 치중. 벼랑끝 전술. 군사적 대치 강화. 8월의 총성과 비슷. 1차대전 발발상황과 유사. 미국은 실질적인 전쟁위험단계로 인식.
-1) ‘사용후 핵연료봉’ 위기
+1) '사용후 핵연료봉' 위기
 미국의 첩보에 따르면 핵폭탄제조가능성. 하지만 추후 CIA도 자신의 의견 번복. 어찌보면 북한은 억울했던 셈. 하지만 북한은 오히려 핵무기 생산을 하지 않았으면 협상력이 감소하는 상황이기에 조사를 수용하지 않음. IAEA도 사용후 연료봉 제거작업 참관에 지나치게 경직된 자세로 접근. 북한 자체적으로 제거. 북한은 플루토늄 보유량을 외부에서 알지 못한다는 포커카드를 쥐고 있음. 이를 계속해서 유지하려고 함. IAEA의 블릭스는 위상보호에만 관심이 있음. 북한은 이에 불만. 다 내놓아야 한다는 주장임. 전쟁발발 가능성 상승
 2) 군사적 행동
 작계5027이 공격전을 전제. 이 계획을 이병태 국방장관이 의회에서 공개적으로 설명. 북한 억제책. 개전가능성 감지. 미국도 실전 수준으로 회의를 진행. 이 회의에서 심대한 타격이 예상되자, 미국은 외교적 해결로 방향 선회. 하지만 북한이 연료봉을 제거하자, 예방외교를 어쩔 수 없이 강경외교로 선회함.
@@ -80,6 +80,6 @@ Robert D. Kaplan, “When North Korea Falls,” The Atlantic Monthly, October 20
 3) 김정일 정권
 4) 원자로를 둘러싼 분쟁
 
-J. Bajoria, “The 6 Party Talks on North Korea’ Nuclear Program,” March 2013
+J. Bajoria, "The 6 Party Talks on North Korea' Nuclear Program," March 2013
 
 북핵 관련 주요합의문 및 주요연표(1990-2009). 장달중, 이정철, 임수호 저, 북미대립 (서울대 출판문화원, 2011).

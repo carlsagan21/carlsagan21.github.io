@@ -5,7 +5,7 @@ title: 국제정치학 뉴스과제 06
 사우디의 비상임이사국 선출 거부 – 대한민국의 1차북핵위기 대응과 비교하여
 
 International Herald Tribune, October 18, 2013
-“Saudi Arabia Rejects U.N. Security Council Seat in Protest Move” By Robert F. Worth
+"Saudi Arabia Rejects U.N. Security Council Seat in Protest Move" By Robert F. Worth
 
 ---
 
@@ -24,48 +24,48 @@ International Herald Tribune, October 18, 2013
 Saudi Arabia Rejects U.N. Security Council Seat in Protest Move
 By ROBERT F. WORTH
 Published: October 18, 2013
-WASHINGTON — Saudi Arabia stunned the United Nations and even some of its own diplomats on Friday by rejecting a highly coveted seat on the Security Council, a decision that underscored the depth of Saudi anger over what the monarchy sees as weak and conciliatory Western stances toward Syria and Iran, Saudi Arabia’s regional rival. 시리아와 이란에 대한 서방의 유보적 태도에 반대해서 비상임이사국 자리 비승인.
+WASHINGTON — Saudi Arabia stunned the United Nations and even some of its own diplomats on Friday by rejecting a highly coveted seat on the Security Council, a decision that underscored the depth of Saudi anger over what the monarchy sees as weak and conciliatory Western stances toward Syria and Iran, Saudi Arabia's regional rival. 시리아와 이란에 대한 서방의 유보적 태도에 반대해서 비상임이사국 자리 비승인.
 
-The Saudi decision, which could have been made only with King Abdullah’s approval, came a day after it had won a Security Council seat for the first time, and it appeared to be unprecedented. 전례없는 일.
+The Saudi decision, which could have been made only with King Abdullah's approval, came a day after it had won a Security Council seat for the first time, and it appeared to be unprecedented. 전례없는 일.
 
-The Saudi Foreign Ministry released a statement rejecting the seat just hours after the kingdom’s own diplomats — both at the United Nations and in Riyadh, the Saudi capital — were celebrating their new seat, the product of two years of work to assemble a crack diplomatic team in New York. Some analysts said the sudden turnabout gave the impression of a self-destructive temper tantrum.
+The Saudi Foreign Ministry released a statement rejecting the seat just hours after the kingdom's own diplomats — both at the United Nations and in Riyadh, the Saudi capital — were celebrating their new seat, the product of two years of work to assemble a crack diplomatic team in New York. Some analysts said the sudden turnabout gave the impression of a self-destructive temper tantrum.
 
-But one Saudi diplomat said the decision came after weeks of high-level debate about the usefulness of a seat on the Security Council, where Russia and China have repeatedly drawn Saudi anger by blocking all attempts to pressure Syria’s president, Bashar al-Assad. Abdullah has voiced rising frustration with the continuing violence in Syria, a fellow Muslim-majority nation where one of his wives was born. He is said to have been deeply disappointed when President Obama decided against airstrikes on Syria’s military in September in favor of a Russian-proposed agreement to secure Syria’s chemical weapons. 러시아와 중국이 시리아에 대한 압력을 모두 쓸모없게 해버림. 미국의 주저하는 자세에 불만.
+But one Saudi diplomat said the decision came after weeks of high-level debate about the usefulness of a seat on the Security Council, where Russia and China have repeatedly drawn Saudi anger by blocking all attempts to pressure Syria's president, Bashar al-Assad. Abdullah has voiced rising frustration with the continuing violence in Syria, a fellow Muslim-majority nation where one of his wives was born. He is said to have been deeply disappointed when President Obama decided against airstrikes on Syria's military in September in favor of a Russian-proposed agreement to secure Syria's chemical weapons. 러시아와 중국이 시리아에 대한 압력을 모두 쓸모없게 해버림. 미국의 주저하는 자세에 불만.
 
 And Saudi officials made no secret of their fear that a nuclear deal between Iran and the West, the subject of multilateral talks this week in Geneva with another round scheduled for early November, could come at their expense, leaving them more exposed to their greatest regional rival. 이란과 서방의 핵deal을 두려워함.
 
 The Saudi decision may also reflect a broader debate within the Saudi ruling elite about how to wield influence: the Saudis have long resisted taking a seat on the Security Council, believing it would hamper their discreet diplomatic style. 상임위에서의 자리를 얻는 것이 신중한 외교 스타일을 위협하리라는 걱정을 해 왔었음.
 
-Still, the sudden about-face came across as a slap to the United Nations and the United States, one of Saudi Arabia’s strongest Western allies. On Thursday evening, the American ambassador to the United Nations, Samantha Power, had issued a statement congratulating the five new nonpermanent members — Chad, Chile, Lithuania, Nigeria and Saudi Arabia. Officials at the United States Mission to the United Nations had no immediate comment. 미국에 대한 공격적인 행동임.
+Still, the sudden about-face came across as a slap to the United Nations and the United States, one of Saudi Arabia's strongest Western allies. On Thursday evening, the American ambassador to the United Nations, Samantha Power, had issued a statement congratulating the five new nonpermanent members — Chad, Chile, Lithuania, Nigeria and Saudi Arabia. Officials at the United States Mission to the United Nations had no immediate comment. 미국에 대한 공격적인 행동임.
 
-Russia was sharply critical of the Saudi gesture. “We are surprised by Saudi Arabia’s unprecedented decision,” the Foreign Ministry said in a statement from Moscow carried by news agencies. “The kingdom’s arguments arouse bewilderment and the criticism of the U.N. Security Council in the context of the Syria conflict is particularly strange.” 러시아는 사우디 비난.
+Russia was sharply critical of the Saudi gesture. "We are surprised by Saudi Arabia's unprecedented decision," the Foreign Ministry said in a statement from Moscow carried by news agencies. "The kingdom's arguments arouse bewilderment and the criticism of the U.N. Security Council in the context of the Syria conflict is particularly strange." 러시아는 사우디 비난.
 
 There was shock and dismay in Riyadh, too, where the Saudi political elite had seemed thrilled at the prospect of a shift to a more public and assertive diplomatic stance. 사우디 내부에서도 충격이라는 반응이 나오고있음.
 
-Late on Thursday, the spokesman for the Saudi Ministry of Foreign Affairs, Osama Nugali, forwarded a message on his Twitter account celebrating the kingdom’s election to the Security Council. The message was written by Jamal Khashoggi, a journalist with links to the ruling elite. Many other prominent Saudis also forwarded the message, which congratulated the kingdom for winning a seat it had “sought for more than two years with the help of a team of the best Saudi diplomats to represent the kingdom.” 상임위 선정을 축하하는 발언을 했었음.
+Late on Thursday, the spokesman for the Saudi Ministry of Foreign Affairs, Osama Nugali, forwarded a message on his Twitter account celebrating the kingdom's election to the Security Council. The message was written by Jamal Khashoggi, a journalist with links to the ruling elite. Many other prominent Saudis also forwarded the message, which congratulated the kingdom for winning a seat it had "sought for more than two years with the help of a team of the best Saudi diplomats to represent the kingdom." 상임위 선정을 축하하는 발언을 했었음.
 
-Many experts had assumed that Saudi Arabia’s pursuit of a Security Council seat signaled a new desire to be more public and assertive in its stances toward the Syrian civil war and the Arab-Israeli conflict. The Saudi ambassador to the United Nations, Abdallah Y. al-Mouallimi, was clearly elated after the General Assembly vote on Thursday.
+Many experts had assumed that Saudi Arabia's pursuit of a Security Council seat signaled a new desire to be more public and assertive in its stances toward the Syrian civil war and the Arab-Israeli conflict. The Saudi ambassador to the United Nations, Abdallah Y. al-Mouallimi, was clearly elated after the General Assembly vote on Thursday.
 
-“We take this election very seriously as a responsibility to be able to contribute to this very important forum to peace and security of the world,” he told reporters. “Our election today is a reflection of a longstanding policy in support of moderation and in support of resolving disputes by peaceful means.”
+"We take this election very seriously as a responsibility to be able to contribute to this very important forum to peace and security of the world," he told reporters. "Our election today is a reflection of a longstanding policy in support of moderation and in support of resolving disputes by peaceful means."
 
-The statement on Friday struck a far different tone, calling for changes to enhance the Security Council’s contribution to peace. It did not say what those should entail.
+The statement on Friday struck a far different tone, calling for changes to enhance the Security Council's contribution to peace. It did not say what those should entail.
 
-“Allowing the ruling regime in Syria to kill and burn its people by the chemical weapons, while the world stands idly, without applying deterrent sanctions against the Damascus regime, is also irrefutable evidence and proof of the inability of the Security Council to carry out its duties and responsibilities,” the statement said.
+"Allowing the ruling regime in Syria to kill and burn its people by the chemical weapons, while the world stands idly, without applying deterrent sanctions against the Damascus regime, is also irrefutable evidence and proof of the inability of the Security Council to carry out its duties and responsibilities," the statement said.
 
-The statement accused the Security Council of failing to find a “just and lasting solution” to the Israel-Palestinian conflict, and of failing to free the Middle East of “all weapons of mass destruction,” an apparent reference to Israel’s presumed nuclear arsenal.
+The statement accused the Security Council of failing to find a "just and lasting solution" to the Israel-Palestinian conflict, and of failing to free the Middle East of "all weapons of mass destruction," an apparent reference to Israel's presumed nuclear arsenal.
 
-“This is very bad for the image of the country,” said one Saudi political insider, who spoke on the condition of anonymity because the decision was assumed to be by the king, whose judgment is rarely questioned in public. “It’s as if someone woke up in the night and made this decision.”
+"This is very bad for the image of the country," said one Saudi political insider, who spoke on the condition of anonymity because the decision was assumed to be by the king, whose judgment is rarely questioned in public. "It's as if someone woke up in the night and made this decision."
 
-But some others in Riyadh said they were not entirely surprised, given the kingdom’s long ambivalence about assuming a position that would strain friendships and alliances, particularly against the backdrop of the high profile and volatility of the Security Council’s recent decisions.
+But some others in Riyadh said they were not entirely surprised, given the kingdom's long ambivalence about assuming a position that would strain friendships and alliances, particularly against the backdrop of the high profile and volatility of the Security Council's recent decisions.
 
-The kingdom has seen its reputation suffer in some quarters in recent years, in part because of the perception that it was combating the democratic aspirations of the 2011 Arab uprisings. On Thursday, the Pew Research Center released a poll indicating that Saudi Arabia’s popularity had declined in several Middle Eastern countries since 2007.
+The kingdom has seen its reputation suffer in some quarters in recent years, in part because of the perception that it was combating the democratic aspirations of the 2011 Arab uprisings. On Thursday, the Pew Research Center released a poll indicating that Saudi Arabia's popularity had declined in several Middle Eastern countries since 2007.
 
-“The Saudis no doubt quickly realized that being on the U.N.S.C. would mean they could no longer pursue their traditional back seat and low-key policies and therefore decided to give it up,” said Bernard Haykel, a professor of Middle East studies at Princeton University and an authority on Saudi Arabia.
+"The Saudis no doubt quickly realized that being on the U.N.S.C. would mean they could no longer pursue their traditional back seat and low-key policies and therefore decided to give it up," said Bernard Haykel, a professor of Middle East studies at Princeton University and an authority on Saudi Arabia.
 
-“Regardless of the short-term costs, a seat on the U.N.S.C. may have also meant that Saudi Arabia would be more constrained in backing the Syrian opposition,” Mr. Haykel said.
+"Regardless of the short-term costs, a seat on the U.N.S.C. may have also meant that Saudi Arabia would be more constrained in backing the Syrian opposition," Mr. Haykel said.
 
 Diplomats at the United Nations said they did not believe the Saudi decision would be reversed, given its unequivocal and accusatory language. It also was unclear when the 193-member General Assembly would take a vote on a replacement. 뒤집진 않을 듯. 재선출을 실행할지도 잘 모름.
 
-As of late Friday, the Saudis had not officially notified the United Nations of their decision. Afaf Konja, a spokeswoman for John W. Ashe, the ambassador for Antigua and Barbuda, who is the current president of the General Assembly, said he had not received formal notification nor had held any meetings with Saudi representatives. Given the nature of the Saudi announcement, the spokeswoman said in an e-mail, “the next steps are yet to be determined and will be based on formal language from Saudi Arabia.”
+As of late Friday, the Saudis had not officially notified the United Nations of their decision. Afaf Konja, a spokeswoman for John W. Ashe, the ambassador for Antigua and Barbuda, who is the current president of the General Assembly, said he had not received formal notification nor had held any meetings with Saudi representatives. Given the nature of the Saudi announcement, the spokeswoman said in an e-mail, "the next steps are yet to be determined and will be based on formal language from Saudi Arabia."
 
 The council has met before without a full membership. Diplomats recalled that in 1950, the Soviet Union refused to sit at the council table, though it did not repudiate its seat. 소련의 예를 떠올림.

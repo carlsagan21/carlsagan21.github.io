@@ -28,7 +28,7 @@ title: 다국어 폰트 적용 실험
 내 지킬 블로그는 scss를 이용하므로 변수를 쓸 수 있다. 요런 식으로.
 
 ```scss
-$appleSDGothicNeo: "Apple SD Gothic Neo", “애플 SD 산돌고딕 Neo”, Apple SD Gothic Neo, Arial, sans-serif;
+$appleSDGothicNeo: "Apple SD Gothic Neo", "애플 SD 산돌고딕 Neo", Apple SD Gothic Neo, Arial, sans-serif;
 
 ...
 
