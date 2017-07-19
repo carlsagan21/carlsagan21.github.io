@@ -44,19 +44,19 @@ It was written in 1332 (元弘2年), and shows the essence of ideas of Jihen. Th
 
 The volume 4 starts with “天皇領国者。天御量徳也。” which can be translated as “Ruling the state of emperor is, the honorable virtue of the heaven.”[^9] Given that this book is about the theory of Shinto, it is not usual to mention the legitimacy of ruling of emperor. Actually the whole chapter is dedicated to praise and show the legitimacy of Imperial lineage. Here Jihen suggest 8 principles of rule: 皇位継徳、人王崇神、特尊伏敵、群民順惠、法能治世、政必禁費、奉斉持国、神態任元. And he explains the meaning of each word through the whole chapter. The first one, “The crown of emperor succeed the virtue (皇位継徳) ”, is a main theme of these 8 principles. And the others show how specifically the virtue can be achieved. Here I translate it one by one as follows:[^10][^11]
 
-> 皇位継徳: The crown of emperor succeed the virtue.  
-> 人王崇神: The ancestor of emperor is worshiped as a god.  
-> 特尊伏敵: Emperor make enemies obey.  
-> While explaining the meaning of it, Jihen equate emperor with the king of Dharma, the ideal ruler of Buddhist world. (輪王)  
-> 群民順惠: Make the people follow by grace.  
-> He used concepts from Confucianism a lot.  
-> 法能治世: The Law are capable of ruling the world.  
-> The Law (法) is usually Buddhist concept, but in here he says that “The Law is the Manner or Ritual (禮)” and indirectly mentioning Confucius classics. This can be an example of Jihen’s syncretism rooting for Japan and Shinto.  
-> 政必禁費: Ruling must not waste away.  
-> 奉斉持国: Justly serve and hold the state.  
-> This requires every social classes to worship Kami.  
-> 神態任元: The form of Kami holds the origin.  
-> The concepts from Watarai is used to explain this principle, e.g. Purity. (淨潔)  
+> 皇位継徳: The crown of emperor succeed the virtue.
+> 人王崇神: The ancestor of emperor is worshiped as a god.
+> 特尊伏敵: Emperor make enemies obey.
+> While explaining the meaning of it, Jihen equate emperor with the king of Dharma, the ideal ruler of Buddhist world. (輪王)
+> 群民順惠: Make the people follow by grace.
+> He used concepts from Confucianism a lot.
+> 法能治世: The Law are capable of ruling the world.
+> The Law (法) is usually Buddhist concept, but in here he says that “The Law is the Manner or Ritual (禮)” and indirectly mentioning Confucius classics. This can be an example of Jihen’s syncretism rooting for Japan and Shinto.
+> 政必禁費: Ruling must not waste away.
+> 奉斉持国: Justly serve and hold the state.
+> This requires every social classes to worship Kami.
+> 神態任元: The form of Kami holds the origin.
+> The concepts from Watarai is used to explain this principle, e.g. Purity. (淨潔)
 
 The volume 5 of Kujihongigengi empathizes on the lineage of Emperor. The focus of it is reveal the sacred origin of imperial lineage. It is just one, unique line from the original Chaos, Kami and Buddha, not two in the heaven and not two in the earth. He tries to figure out the superiority of imperial authority over people.[^12] The volume 9 is about sacred treasures. The 3 famous sacred treasures, and 10 sacred treasures are linked to the heaven and the earth respectively. In addition, the 10 treasures are identified with 10 Pāramitā of Buddhism, while the 3 treasures are equated with the Buddhist treasures.[^13]
 
@@ -66,8 +66,8 @@ In conclusion, Jihen is suggesting new form of Shinto, although he might claim t
 Considering those facts of Jihen, I thought I could make the following hypotheses.
 1. The Jihen thought would have served as the intellectual foundation of the Southern in the Nanbokucho era.[^15]
 2. If so, there would have been other ideas that constituted the ideological foundation of the North Court.
-3. If so, it would have been a confrontational and conflictual relationship between Jihen’s ideas and those of the North, as the intellectual foundations of the two courts. Furthermore, I might be able to say there was the proxy warfare in the thinking world, patronized by respective political powers, if  
-A. There would have been a criticism of each other ’s ideas on the other.  
+3. If so, it would have been a confrontational and conflictual relationship between Jihen’s ideas and those of the North, as the intellectual foundations of the two courts. Furthermore, I might be able to say there was the proxy warfare in the thinking world, patronized by respective political powers, if
+A. There would have been a criticism of each other ’s ideas on the other.
 B. Each political power would act exclusively as a supporter of each idea. – the division of intellectual world like political geographic division.
 
 The thing is, as I continue to read materials and books about that era, I gradually cannot avoid to admit that my hypotheses are not correct. Actually, it is the reason why I’m writing this article less academic way. I decided to write this paper more essay-like, tracking my stages of thought regarding Jihen and the period of the Nanbokucho, because I thought it is easier in essay style to show where I started and where I eventually arrived. So, let the excuse stop at this point, and move into the verification of hypotheses.
@@ -119,13 +119,13 @@ Despite many of these questions about the role of Jihen in the times, we still f
 
 ### Work cited
 
-Collcutt, Martin. Five Mountains, Harvard Univ Asia Center, 1981.  
-Dumoulin, Heinrich S J. Zen Buddhism: a History. Vol. 2, Japan, World Wisdom, 2005.  
-Grapard, Allan G. “The Shinto of Yoshida Kanetomo.” Monumenta Nipponica 47, no. 1 (1992): 27. doi:10.2307/2385357.  
-Kokugakuin University. “Jingidoke, Encyclopedia of Shinto.” Edited by Okada Shōji. Jingidoke, Encyclopedia of Shinto. Accessed November 29, 2016. http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22573.  
-久 保 田 ( Kubota), 収(Osamu). 中世神道の研究, 京都: 神道史学会, 1959.  
-大 隅 ( Osumi), 和雄(Kazuo). 中世神道論, 東京: 岩波書店, 1977.  
-玉 懸 ( Tamakake), 博之(Hiroyuki). 日本中世思想史研究, 東京: ぺりかん社, 1998.  
+Collcutt, Martin. Five Mountains, Harvard Univ Asia Center, 1981.
+Dumoulin, Heinrich S J. Zen Buddhism: a History. Vol. 2, Japan, World Wisdom, 2005.
+Grapard, Allan G. “The Shinto of Yoshida Kanetomo.” Monumenta Nipponica 47, no. 1 (1992): 27. doi:10.2307/2385357.
+Kokugakuin University. “Jingidoke, Encyclopedia of Shinto.” Edited by Okada Shōji. Jingidoke, Encyclopedia of Shinto. Accessed November 29, 2016. http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22573.
+久 保 田 ( Kubota), 収(Osamu). 中世神道の研究, 京都: 神道史学会, 1959.
+大 隅 ( Osumi), 和雄(Kazuo). 中世神道論, 東京: 岩波書店, 1977.
+玉 懸 ( Tamakake), 博之(Hiroyuki). 日本中世思想史研究, 東京: ぺりかん社, 1998.
 
 ---
 
@@ -135,25 +135,25 @@ Kokugakuin University. “Jingidoke, Encyclopedia of Shinto.” Edited by Okada 
 
 한글 아웃라인에는 있었지만 도쿄행 버스를 타기위해 포기한 항목들이 있었다.
 
-> 이에 대한 제기될 수 있는 재반박  
-> 1) 고다이고가 헤이안의 오산을 시작하였으나, 남조로 이전한 이후 그 통제력을 잃음  
-> 2) 고다이고는 권력을 위해서 어떤 사상이라도 이용하려 한 것으로 보임.  
-> 3) 무소와 친밀한 관계였으나, 고다이고가 요시노로 도망칠때 무소는 헤이안에 남음.  
-> 4) 텐류지를 고다이고를 위해 지었다고 주장한것은 당시 북조의 부족한 정통성을 보충하기 위한 방안이었을지도. 게다가 선후관계가 분명하진 않지만, 텐류지를 위해 원나라와 무역을 개시하고 이것을 승려들이 주도함. 경제력 확보를 위해 텐류지를 지었는지, 텐류지를 짓다보니 경제력이 필요했는지는 불분명.  
-> 5) 안국사 및 기타 건설은 겐코의 난 이후 사망자를 위한 것이라곤 한다. 그러나 정치적 행정적 목적이 다분하였음. 마찬가지로 정통성 확보 시도로도 해석 가능.  
+> 이에 대한 제기될 수 있는 재반박
+> 1) 고다이고가 헤이안의 오산을 시작하였으나, 남조로 이전한 이후 그 통제력을 잃음
+> 2) 고다이고는 권력을 위해서 어떤 사상이라도 이용하려 한 것으로 보임.
+> 3) 무소와 친밀한 관계였으나, 고다이고가 요시노로 도망칠때 무소는 헤이안에 남음.
+> 4) 텐류지를 고다이고를 위해 지었다고 주장한것은 당시 북조의 부족한 정통성을 보충하기 위한 방안이었을지도. 게다가 선후관계가 분명하진 않지만, 텐류지를 위해 원나라와 무역을 개시하고 이것을 승려들이 주도함. 경제력 확보를 위해 텐류지를 지었는지, 텐류지를 짓다보니 경제력이 필요했는지는 불분명.
+> 5) 안국사 및 기타 건설은 겐코의 난 이후 사망자를 위한 것이라곤 한다. 그러나 정치적 행정적 목적이 다분하였음. 마찬가지로 정통성 확보 시도로도 해석 가능.
 >
-> 그럼에도 불구하고 오산과 지헨이 대립하였다고 보는건 어려워 보인다.  
-> 1. 서로 상대를 명확히 타깃으로 하는 반론이 존재하지 않으며, 무관심해 보임.  
-> 2. 오산의 적은 신토가 아니라 기존 헤이안 불교였음.  
+> 그럼에도 불구하고 오산과 지헨이 대립하였다고 보는건 어려워 보인다.
+> 1. 서로 상대를 명확히 타깃으로 하는 반론이 존재하지 않으며, 무관심해 보임.
+> 2. 오산의 적은 신토가 아니라 기존 헤이안 불교였음.
 >
 > ...
 >
-> 이 보고서의 문제점  
-> 지헨의 경우 사상적 내용으로 파고들었으면서, 오산에 대해서는 사회적 맥락을 위주로 파고듬.  
-> 그러니 서로 만나지 못한다는 결론이 나왔을 수도  
-> 하지만 그래도  
-> 오산이 신토에 대해 거의 관심이 없었던 것으로 보인다는점(없는걸 증명하기는 어렵지만 일단은)  
-> 지헨이 실제적으로 정치권의 지원을 거의 받지 못했다는 점(마찬가지로 없는것 증명하기지만)  
+> 이 보고서의 문제점
+> 지헨의 경우 사상적 내용으로 파고들었으면서, 오산에 대해서는 사회적 맥락을 위주로 파고듬.
+> 그러니 서로 만나지 못한다는 결론이 나왔을 수도
+> 하지만 그래도
+> 오산이 신토에 대해 거의 관심이 없었던 것으로 보인다는점(없는걸 증명하기는 어렵지만 일단은)
+> 지헨이 실제적으로 정치권의 지원을 거의 받지 못했다는 점(마찬가지로 없는것 증명하기지만)
 > 을 고려한다면, 이렇게 다른 접근법을 취할 수 밖에 없던 것이 당연할지도.
 
 이 부분들을 시간관계상 다루지 못해서 아쉬워 여기에라도 적어둔다.
@@ -170,9 +170,9 @@ As to those thought process, there is very little to find fault with here. You e
 
 In the end, the paper does fall a little bit short in that there is no attempt to survey or compare secondary literature. However, with all the other requirements met, I grade this paper at 95.
 
-Together with your other grades of:  
-Report 90  
-Participation 80 (frequently late, but always insightful and engaging during discussion)  
+Together with your other grades of:
+Report 90
+Participation 80 (frequently late, but always insightful and engaging during discussion)
 
 This brings me to an overall evaluation of 91.
 
@@ -183,26 +183,26 @@ NvS
 
 ---
 
-[^1]: Allan G Grapard, “The Shinto of Yoshida Kanetomo,” Monumenta Nipponica 47, no. 1 (1992): 27, doi:10.2307/2385357. p.34.  
-[^2]: ibid. p.34. if you want to see more about it, see Allan G Grapard, “Linguistic Cubism: a Singularity of Pluralism in the Sannō Cult,” Japanese Journal of Religious Studies 14, no. 2 (May 1, 1987), doi:10.18874/jjrs.14.2-3.1987.211-234. or Kokugakuin University, “Sanno Shinto, Encyclopedia of Shinto,” ed. Satō Masato, Sanno Shinto, Encyclopedia of Shinto, accessed November 29, 2016, http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22572.  
-[^3]: ibid. p.45.  
-[^4]: 収(Osamu) 久 保 田 ( Kubota), 中世神道の研究, (京都: 神道史学会, 1959). pp.139-159. The suggested facts about Jihen is mainly from the book of Kubota, which has been a milestone to approach middle age Shinto, especially for Jihen.  
-[^5]: Grapard, “The Shinto of Yoshida Kanetomo.” p.30.  
-[^6]: Kokugakuin University, “Jingidoke, Encyclopedia of Shinto,” ed. Okada Shōji, Jingidoke, Encyclopedia of Shinto, accessed November 29, 2016, http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22573.  
-[^7]: 久 保 田 ( Kubota), 中世神道の研究. pp.142-146.  
-[^8]: ibid. pp.146-148.  
-[^9]: 和雄(Kazuo) 大 隅 ( Osumi), 中世神道論, (東京: 岩波書店, 1977). p.157. Because the original text is written in Kanbun, Chinese classical literature, there might be several options of translation. In here, I took the translation of Osumi.  
-[^10]: ibid. For Japanese translation, see pp.157-180. For original Chinese literal text, see pp.309-318.  
-[^11]: For commentary, see 久 保 田 ( Kubota), 中世神道の研究. pp.148-149.  
-[^12]: ibid. p.149.  
-[^13]: ibid. p.149.  
-[^14]: ibid. pp.149-150.  
-[^15]: “In relation to the Kemmu government of emperor Go-Daigo and the south court that inherited it, this Shinto idea was formed based on the relationship with political power of the time.” 博之(Hiroyuki) 玉 懸 ( Tamakake), 日本中世思想史研究, (東京: ぺりかん社, 1998). p.58. This sentence is commented as cited from Kubota Osamu, but do not specify the specific page, rather noticing the whole chapter.  
-[^16]: Martin Collcutt, Five Mountains, (Harvard Univ Asia Center, 1981). p.87.  
-[^17]: Heinrich S J Dumoulin, Zen Buddhism: a History. Vol. 2, Japan, (World Wisdom, 2005). p.149.  
-[^18]: Collcutt, Five Mountains. pp.80-81.  
-[^19]: ibid. pp.84-86.  
-[^20]: Dumoulin, Zen Buddhism: a History. Vol. 2, Japan. pp.149-150.  
-[^21]: Collcutt, Five Mountains. pp.84-98.  
-[^22]: It was mostly rather symbolic absorption than building real physical temples. Large temples applied to be enrolled as Ankokuji, and the central government or headquarter of Rinzai approve or designated them. While Ankokuji was only for Rinzai temples, Rishoto were not temples but a building in temples. Not like Ankokuji, Rishoto was installed in non-Rinzai temples like Tendai or Shingon. These were the trials to administratively systemize and integrate temples of all kinds of Buddhism in one wide network, which is controlled by the government.  
-[^23]: Dumoulin, Zen Buddhism: a History. Vol. 2, Japan. p.152.  
+[^1]: Allan G Grapard, “The Shinto of Yoshida Kanetomo,” Monumenta Nipponica 47, no. 1 (1992): 27, doi:10.2307/2385357. p.34.
+[^2]: ibid. p.34. if you want to see more about it, see Allan G Grapard, “Linguistic Cubism: a Singularity of Pluralism in the Sannō Cult,” Japanese Journal of Religious Studies 14, no. 2 (May 1, 1987), doi:10.18874/jjrs.14.2-3.1987.211-234. or Kokugakuin University, “Sanno Shinto, Encyclopedia of Shinto,” ed. Satō Masato, Sanno Shinto, Encyclopedia of Shinto, accessed November 29, 2016, http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22572.
+[^3]: ibid. p.45.
+[^4]: 収(Osamu) 久 保 田 ( Kubota), 中世神道の研究, (京都: 神道史学会, 1959). pp.139-159. The suggested facts about Jihen is mainly from the book of Kubota, which has been a milestone to approach middle age Shinto, especially for Jihen.
+[^5]: Grapard, “The Shinto of Yoshida Kanetomo.” p.30.
+[^6]: Kokugakuin University, “Jingidoke, Encyclopedia of Shinto,” ed. Okada Shōji, Jingidoke, Encyclopedia of Shinto, accessed November 29, 2016, http://k-amc.kokugakuin.ac.jp/DM/detail.do?class_name=col_eos&data_id=22573.
+[^7]: 久 保 田 ( Kubota), 中世神道の研究. pp.142-146.
+[^8]: ibid. pp.146-148.
+[^9]: 和雄(Kazuo) 大 隅 ( Osumi), 中世神道論, (東京: 岩波書店, 1977). p.157. Because the original text is written in Kanbun, Chinese classical literature, there might be several options of translation. In here, I took the translation of Osumi.
+[^10]: ibid. For Japanese translation, see pp.157-180. For original Chinese literal text, see pp.309-318.
+[^11]: For commentary, see 久 保 田 ( Kubota), 中世神道の研究. pp.148-149.
+[^12]: ibid. p.149.
+[^13]: ibid. p.149.
+[^14]: ibid. pp.149-150.
+[^15]: “In relation to the Kemmu government of emperor Go-Daigo and the south court that inherited it, this Shinto idea was formed based on the relationship with political power of the time.” 博之(Hiroyuki) 玉 懸 ( Tamakake), 日本中世思想史研究, (東京: ぺりかん社, 1998). p.58. This sentence is commented as cited from Kubota Osamu, but do not specify the specific page, rather noticing the whole chapter.
+[^16]: Martin Collcutt, Five Mountains, (Harvard Univ Asia Center, 1981). p.87.
+[^17]: Heinrich S J Dumoulin, Zen Buddhism: a History. Vol. 2, Japan, (World Wisdom, 2005). p.149.
+[^18]: Collcutt, Five Mountains. pp.80-81.
+[^19]: ibid. pp.84-86.
+[^20]: Dumoulin, Zen Buddhism: a History. Vol. 2, Japan. pp.149-150.
+[^21]: Collcutt, Five Mountains. pp.84-98.
+[^22]: It was mostly rather symbolic absorption than building real physical temples. Large temples applied to be enrolled as Ankokuji, and the central government or headquarter of Rinzai approve or designated them. While Ankokuji was only for Rinzai temples, Rishoto were not temples but a building in temples. Not like Ankokuji, Rishoto was installed in non-Rinzai temples like Tendai or Shingon. These were the trials to administratively systemize and integrate temples of all kinds of Buddhism in one wide network, which is controlled by the government.
+[^23]: Dumoulin, Zen Buddhism: a History. Vol. 2, Japan. p.152.

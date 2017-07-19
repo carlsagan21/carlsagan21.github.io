@@ -15,7 +15,7 @@ title: Philosophy of Religion Japanese translation final
 
 精神分析の創始者であり、ガリレオやダーウィンやアインシュタインに匹敵する人物であるジークムント・フロイト（1856-1939）は、宗教の性質に非常に注目した。彼は宗教的信仰を「...人類の最古の、最強の、最も執拗な願いの幻想または履行」とみなした。フロイトにとって、宗教は地震、洪水、暴風、病気、そして避けられない死などの自然の脅威的な側面に対する精神的防御である。フロイトによれば、「これらの力によって、自然は巨大で残酷で冷酷な形で私たちに立ち現れる」。しかし、人間の想像力はこれらの力を神秘的で人格的な力に変えさせる。
 
-[フロイトは言った]非人格的な力と運命には近づくことはできない。それらは永遠に遠く離れている。しかし、もしそのような要素が自分たちの魂の中にあるのと同様に激情を持っていれば、もし死がそれ自体として自然に起こるものではなく邪悪な意志の暴力的な行動であれば、もし我々が自身の社会で知っているのと同じ類の身の周りにあるような存在が自然のどこにでもあれば、私たちは自由に呼吸ができ、不気味な場面でもおちつくことができ、私たちの理由の分からぬ不安に心理的な手段によって対処することができるようになる。おそらく私たちはまだ無防備だが、もはやお手上げで立ちすくんでいる訳ではない。少なくとも反応することができる。おそらく実際には、無防備ですらない。私たちの社会に活用するのと同様の方法を外部の暴力的な超越的存在に対して私たちは適用することができる。私たちはそれらを懇願しようとしたり、宥めたり、買収したり、それらに影響を与えて、彼らの力の一部を奪うことができる。
+> \[フロイトは言った\]非人格的な力と運命には近づくことはできない。それらは永遠に遠く離れている。しかし、もしそのような要素が自分たちの魂の中にあるのと同様に激情を持っていれば、もし死がそれ自体として自然に起こるものではなく邪悪な意志の暴力的な行動であれば、もし我々が自身の社会で知っているのと同じ類の身の周りにあるような存在が自然のどこにでもあれば、私たちは自由に呼吸ができ、不気味な場面でもおちつくことができ、私たちの理由の分からぬ不安に心理的な手段によって対処することができるようになる。おそらく私たちはまだ無防備だが、もはやお手上げで立ちすくんでいる訳ではない。少なくとも反応することができる。おそらく実際には、無防備ですらない。私たちの社会に活用するのと同様の方法を外部の暴力的な超越的存在に対して私たちは適用することができる。私たちはそれらを懇願しようとしたり、宥めたり、買収したり、それらに影響を与えて、彼らの力の一部を奪うことができる。
 
 ユダヤ-キリスト教において採用された解決策は、巨大な保護力としての父の埋葬された記憶を全宇宙に投影することであった。揺りかごで微笑んだ顔は、今無限大に拡大されて、天国から微笑んでいる。したがって、宗教は「人類の普遍的な強迫神経症」であり、人々が最終的に世界に直面することを学び、幻想ではなく、科学的な真の知識に依拠するようになったら消えるかもしれない。
 
@@ -32,7 +32,7 @@ title: Philosophy of Religion Japanese translation final
 
 な→で：수식이 열거될 때는 で사용.
 
-[フロイトは言った]非人格的な力と運命*には*近づくことはできない。それらは永遠に遠く離れている。
+\[フロイトは言った\]非人格的な力と運命*には*近づくことはできない。それらは永遠に遠く離れている。
 
 は→には：~은 가까이할 수 없다라고 한국어로 생각했으나, 일본어에서는 には만 가능.
 
@@ -105,8 +105,8 @@ According to Freud, "With these forces nature rises up against us, majestic, cru
 But the human imagination transforms these forces into mysterious personal powers.
 しかし、人間の想像力はこれらの力を神秘的で人格的な力に変えさせる。
 
-Impersonal forces and destinies [Freud said] cannot be approached; they remain eternally remote.
-[フロイトは言った]非人格的な力と運命には近づくことはできない。それらは永遠に遠く離れている。
+Impersonal forces and destinies \[Freud said\] cannot be approached; they remain eternally remote.
+\[フロイトは言った\]非人格的な力と運命には近づくことはできない。それらは永遠に遠く離れている。
 But if the elements have passions that rage as they do in our own souls, if death itself is not something spontaneous but the violent act of an evil Will, if everywhere in nature there are Beings around us of a kind that we know in our own society, then we can breathe freely, can feel at home in the uncanny and can deal by psychical means with our senseless anxiety.
 しかし、もしそのような要素が自分たちの魂の中にあるのと同様に激情を持っていれば、もし死がそれ自体として自然に起こるものではなく邪悪な意志の暴力的な行動であれば、もし我々が自身の社会で知っているのと同じ類の身の周りにあるような存在が自然のどこにでもあれば、私たちは自由に呼吸ができ、不気味な場面でもおちつくことができ、私たちの理由の分からぬ不安に心理的な手段によって対処することができるようになる。
 We are still defenseless, perhaps, but we are no longer helplessly paralyzed; we can at least react.
@@ -151,7 +151,7 @@ THE FREUDIAN THEORY OF RELIGION
 
 Sigmund Freud (1856-1939), the originator of psychoanalysis and a figure comparable in importance to Galileo, Darwin, or Einstein, devoted a good deal of attention to the nature of religion. He regarded religious beliefs as ".. .illusions, fulfillments of the oldest, strongest, and most insistent wishes of mankind." Religion, as Freud saw it, is a mental defense against the more threatening aspects of nature — earthquake, flood, storm, disease, and inevitable death. According to Freud, "With these forces nature rises up against us, majestic, cruel and inexorable." But the human imagination transforms these forces into mysterious personal powers.
 
-  Impersonal forces and destinies [Freud said] cannot be approached; they remain eternally remote. But if the elements have passions that rage as they do in our own souls, if death itself is not something spontaneous but the violent act of an evil Will, if everywhere in nature there are Beings around us of a kind that we know in our own society, then we can breathe freely, can feel at home in the uncanny and can deal by psychical means with our senseless anxiety. We are still defenseless, perhaps, but we are no longer helplessly paralyzed; we can at least react. Perhaps, indeed, we are not even defenseless. We can apply the same methods against these violent super beings outside that we employ in our own society; we can try to adjure them, to appease them, to bribe them, and, by so influencing them, we may rob them of part of their power.
+> Impersonal forces and destinies \[Freud said\] cannot be approached; they remain eternally remote. But if the elements have passions that rage as they do in our own souls, if death itself is not something spontaneous but the violent act of an evil Will, if everywhere in nature there are Beings around us of a kind that we know in our own society, then we can breathe freely, can feel at home in the uncanny and can deal by psychical means with our senseless anxiety. We are still defenseless, perhaps, but we are no longer helplessly paralyzed; we can at least react. Perhaps, indeed, we are not even defenseless. We can apply the same methods against these violent super beings outside that we employ in our own society; we can try to adjure them, to appease them, to bribe them, and, by so influencing them, we may rob them of part of their power.
 
 The solution adopted in Judaic-Christian religion is to project upon the universe the buried memory of our father as a great protecting power. The face that smiled at us in the cradle, now magnified to infinity, smiles down upon us from heaven. Thus, religion is ".. .the universal obsessional neurosis of humanity," which may be left behind when at last people learn to face the world, relying no longer upon illusions but upon scientifically authenticated knowledge.
 
