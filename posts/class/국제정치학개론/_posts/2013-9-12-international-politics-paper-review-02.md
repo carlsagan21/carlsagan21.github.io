@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 예습과제 13.09.12.
+title: 국제정치학 예습과제 02 (Doom's Day Machine)
 ---
 
 Q. 키신저가 말하는 정치적, 군사적 Doomsday Machine의 내용을 설명.
