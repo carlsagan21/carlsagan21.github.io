@@ -24,7 +24,7 @@ International Herald Tribune, October 18, 2013
 Saudi Arabia Rejects U.N. Security Council Seat in Protest Move
 By ROBERT F. WORTH
 Published: October 18, 2013
- WASHINGTON — Saudi Arabia stunned the United Nations and even some of its own diplomats on Friday by rejecting a highly coveted seat on the Security Council, a decision that underscored the depth of Saudi anger over what the monarchy sees as weak and conciliatory Western stances toward Syria and Iran, Saudi Arabia’s regional rival. 시리아와 이란에 대한 서방의 유보적 태도에 반대해서 비상임이사국 자리 비승인.
+WASHINGTON — Saudi Arabia stunned the United Nations and even some of its own diplomats on Friday by rejecting a highly coveted seat on the Security Council, a decision that underscored the depth of Saudi anger over what the monarchy sees as weak and conciliatory Western stances toward Syria and Iran, Saudi Arabia’s regional rival. 시리아와 이란에 대한 서방의 유보적 태도에 반대해서 비상임이사국 자리 비승인.
 
 The Saudi decision, which could have been made only with King Abdullah’s approval, came a day after it had won a Security Council seat for the first time, and it appeared to be unprecedented. 전례없는 일.
 
