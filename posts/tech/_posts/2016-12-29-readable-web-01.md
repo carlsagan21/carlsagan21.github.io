@@ -85,11 +85,11 @@ GR: 황금비 = 1.6...
 2.  폰트 크기는 폰트 높이와 같지 않다. 저자는 폰트 크기가 폰트 높이와 같다고 가정하고 논의를 전개하고 있다. `폰트크기(font-size) = 폰트높이(font-height)+내부행간(internal leading)` 이다. 내부 행간이 고려되지 않았다.(저자의 대답: 그럼에도 폰트 크기와 폰트 높이가 적절히 비례하는 것처럼 보임. 내부행간은 사소하다.)
 3.  너비 = 높이^2의 단위는 px인데, 그럼 너비는 px^2를 단위로 가져야 함에도 px로 표현. 상수 추가로 해결 가능. width = height^2 / (1 pixel). 또 다른 문제는, 단위를 px이 아니라 em, cm으로 쓰면 너비 결과가 달라짐. 하지만 1px이 단위로서 최적인지에 대한 의문은 해결되지 않음. / Real mathematical relationships are unit independent. 하지만 이건 그렇지 않다.
 4.  황금비가 합당한 이유는?(Jan Tschichold는 1.3을 주장했다고 함)
-5.  줄간과 줄너비의 제곱관계에 대한 증명은?(http://dropshado.ws/post/12971305087/webkit-zoomed-out-font-size-threshold, 기타 메인 블로그 포스트 확인)
+5.  줄간과 줄너비의 제곱관계에 대한 증명은?(<http://dropshado.ws/post/12971305087/webkit-zoomed-out-font-size-threshold>, 기타 메인 블로그 포스트 확인)
 
 구현
-1.  Sass 함수화(https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
-2.  post-processer 화(https://github.com/songawee/px_to_rem)
+1.  Sass 함수화(<https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/>)
+2.  post-processer 화(<https://github.com/songawee/px_to_rem>)
 
 생각해볼 만한 항목이 적지는 않다. 그래도 그 끝에서 "내 블로그에 적절한 줄 높이는 무엇인가"라는 질문에 나 뿐만 아니라 읽는 사람도 답을 얻을 수 있으면 하는 바람이다. 그럼 시작해보자!
 
