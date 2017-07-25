@@ -77,7 +77,7 @@ Configuration finished
 
 그리고 `bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg` 를 하면 .whl 파일이 생성된다. 혹시 whl 파일을 다시 쓸 계획이라면 어딘가 옮겨두자. `/tmp`는 언제 삭제될지 모르기 때문에.
 
-그 다음 자신이 텐서플로우를 설치할 `pip` 을 활성화하여, `pip install ${YOUR_WHL_FILE.whl}` 을 실행하면 마무리된다.
+그 다음 자신이 텐서플로우를 설치할 `pip` 을 활성화하여, `sudo pip install ${YOUR_WHL_FILE.whl}` 을 실행하면 마무리된다. 내 경우는 `sudo` 가 필요하였다.
 
 제대로 되었는지는 다음과 같이 테스트해보자.
 
