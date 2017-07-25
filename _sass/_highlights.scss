@@ -14,7 +14,7 @@ $monospace-font-stack: Menlo, Monaco, Consolas, 'Bitstream Vera Sans Mono', 'Cou
   margin: 20px 0;
   overflow: auto;
   padding: 7px 7px 7px 10px;
-  font-size: 15px;
+  font-size: $fontSize - 3px;
 }
 
 code {
