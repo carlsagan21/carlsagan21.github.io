@@ -31,6 +31,8 @@ MacBook Pro (Retina, 13-inch, Early 2015)
 
 와 같으므로 워닝은 적합한 것으로 보인다. 따라서 커스텀 빌드하여 이 워닝을 없애고 퍼포먼스를 최적화하기로 하였다.
 
+---
+
 스텍오버플로에서 가장 많이들 참조하는 답변은 [이거](https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions) 인 것 같다. 이 방법도 좋지만, 내 머신에서 돌아갈 텐서플로우를 컴파일 할 때는 아래와 같이 더 간편한 방법으로 가능하다. 따라해보자.
 
 [소스부터 텐서플로우 설치하기](https://www.tensorflow.org/install/install_sources)를 찬찬히 따라하면 할 수 있다.
