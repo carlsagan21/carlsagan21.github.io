@@ -1,3 +1,6 @@
+---
+---
+
 //
 // IMPORTS
 //
@@ -16,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: $fontSize/$lineHeight $myFontStack;
+  font: 17px/1.4 $myFontStack;
   color: $darkGray;
 }
 
@@ -254,7 +257,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: $fontSize - 2px;
+    font-size: 16px;
     font-style: italic;
   }
 
@@ -264,7 +267,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: $fontSize - 2px;
+    font-size: 15px;
   }
 }
 
