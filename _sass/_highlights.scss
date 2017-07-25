@@ -1,5 +1,3 @@
-@import "variables";
-
 $highlight-background-color: #f7f7f7;
 $highlight-border-color: #ddd;
 $highlight-shadow-color: rgba(0, 0, 0, .1);
@@ -16,7 +14,7 @@ $monospace-font-stack: Menlo, Monaco, Consolas, 'Bitstream Vera Sans Mono', 'Cou
   margin: 20px 0;
   overflow: auto;
   padding: 7px 7px 7px 10px;
-  font-size: $fontSize - 2px;
+  font-size: 15px;
 }
 
 code {
