@@ -14,11 +14,16 @@ $monospace-font-stack: Menlo, Monaco, Consolas, 'Bitstream Vera Sans Mono', 'Cou
   margin: 20px 0;
   overflow: auto;
   padding: 7px 7px 7px 10px;
+  font-size: 15px;
 }
 
 code {
-  background-color: $code-background-color;
   font-family: $monospace-font-stack;
+}
+
+// only for short code with ``
+code.highlighter-rouge {
+  background-color: $code-background-color;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
