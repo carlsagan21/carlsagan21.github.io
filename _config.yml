@@ -9,7 +9,7 @@ name: Soo Kim
 description: Cognitive Studies of Religion & Computer Science and Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/11597490?s=70
 
 #
 # Flags below are optional
@@ -62,6 +62,7 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+  hard_wrap: true
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -78,6 +79,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # pagenation. see 'https://jekyllrb.com/docs/pagination/'
+  # - font-awesome-sass
 
 # Exclude these files from your production _site
 exclude:
@@ -99,3 +102,7 @@ defaults:
       # categories: "etc"
       # tags: "etc"
       # published: "true"
+
+# pagination configs
+paginate: 5
+paginate_path: "/page:num/"

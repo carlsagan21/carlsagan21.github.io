@@ -3,16 +3,101 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="date">
+        Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <div class="entry">
+        {{ post.excerpt | strip_html | truncate: 140 | prepend: "<p>" | append: "</p>" }}
+      </div>
+
+      <a href="{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination">
+  <li
+    {% unless paginator.previous_page %}
+      class="disabled"
+    {% endunless %}
+  >
+    <a
+      {% if paginator.previous_page %}
+        href="{{ site.baseurl }}/"
+      {% endif %}
+    >
+      <i class="fa fa-angle-double-left" aria-hidden="true"></i>
+    </a>
+  </li>
+
+  <li
+    {% unless paginator.previous_page %}
+      class="disabled"
+    {% endunless %}
+  >
+    <a
+      {% if paginator.previous_page %}
+        href="{{ paginator.previous_page_path }}"
+      {% endif %}
+    >
+      <i class="fa fa-angle-left" aria-hidden="true"></i>
+    </a>
+  </li>
+  <!--  offset: paginator.page limit: 5 로 페이지네이션 리미트 구현하기 -->
+  {% for page_index in (1..paginator.total_pages) %}
+    <li
+      {% if page_index == paginator.page %}
+        class="active"
+      {% endif %}
+    >
+      <a
+        {% if page_index == 1 %}
+          href="{{ site.baseurl }}/"
+        {% else %}
+          {% unless page_index == paginator.page %}
+            href="{{ site.paginate_path | replace: ':num', page_index }}"
+          {% endunless %}
+        {% endif %}
+      >{{ page_index }}</a>
+    </li>
+  {% else %}
+    The Paginator is empty.
+  {% endfor %}
+
+  <li
+    {% unless paginator.next_page %}
+      class="disabled"
+    {% endunless %}
+  >
+    <a
+      {% if paginator.next_page %}
+        href="{{ paginator.next_page_path }}"
+      {% endif %}
+    >
+      <i class="fa fa-angle-right" aria-hidden="true"></i>
+    </a>
+  </li>
+
+  <li
+    {% unless paginator.next_page %}
+      class="disabled"
+    {% endunless %}
+  >
+    <a
+      {% if paginator.next_page %}
+        href="{{ site.paginate_path | replace: ':num', paginator.total_pages }}"
+      {% endif %}
+    >
+      <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+    </a>
+  </li>
+
+</ul>
+{% endif %}

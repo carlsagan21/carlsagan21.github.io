@@ -1,6 +1,9 @@
+@import "font-awesome/font-awesome";
+
 .entry {
   line-height: 1.8;
-  word-break: keep-all;
+  // 일본어 있을 시 깨짐
+  // word-break: keep-all;
 
   table th {
     font-weight: bold;
@@ -19,5 +22,62 @@
 
   table tr:nth-child(2n) {
     background-color: $f8f8f8;
+  }
+}
+
+// Pagination
+.pagination {
+  padding: 0;
+  text-align: center;
+
+  li {
+    border-radius: 2px;
+    display: inline-block;
+    height: 30px;
+    text-align: center;
+    vertical-align: top;
+
+    a {
+      color: #444;
+      display: inline-block;
+      font-size: 1.2rem;
+      line-height: 30px;
+      padding: 0 10px;
+    }
+
+    &.active a { color: #fff; cursor: default; }
+
+    &.active { background-color: $primary-color; }
+
+    &.disabled a {
+      color: #999;
+      cursor: default;
+    }
+
+    i {
+      font-size: 1.3rem;
+    }
+
+    &.pages ul li {
+      display: inline-block;
+      float: none;
+    }
+  }
+}
+
+@media #{$medium-and-down} {
+  .pagination {
+    width: 100%;
+
+    li.prev,
+    li.next {
+      width: 10%;
+    }
+
+    li.pages {
+      overflow: hidden;
+      white-space: nowrap;
+      width: 80%;
+    }
   }
 }
