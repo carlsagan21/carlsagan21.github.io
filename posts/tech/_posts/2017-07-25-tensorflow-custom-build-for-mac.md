@@ -93,3 +93,25 @@ print(sess.run(hello))
 `tf.Session()` 를 했을 때 워닝이 뜨지 않는다면 성공한 것이다.
 
 이상 맥북에서 텐서플로우 커스텀 빌드하는 법을 정리해 보았다. 두 가지의 퍼포먼스 비교는 MNIST 나 요즘 내가 다루는 seq2seq 을 이용해서 나중에 해보겠다.
+
+---
+
+커스텀 빌드 버젼과 배포 버전을 나이브하게 한번씩 MNIST 를 돌려보았다. 코드는 [이것](https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/examples/tutorials/mnist/mnist_deep.py)을 사용했다. 커스텀으로 한번 돌리고, 텐서플로우 패키지만 바꿔서 설치하여 다시 돌려보았다. 그 결과
+
+```
+// 커스텀 빌드
+test accuracy 0.992
+
+real	31m38.759s
+user	94m55.585s
+sys	9m9.918s
+
+// 배포판
+test accuracy 0.9928
+
+real	54m53.825s
+user	174m54.532s
+sys	13m58.391s
+```
+
+깜짝 놀란만큼 큰 차이가 났다. 거짓말 좀 보태면 거의 두 배 정도이다. 사실 얼마 차이가 나지 않을까봐 걱정이었는데, 의외이다. 정말로 어느정도 차이가 나는지는 몇번을 해서 평균을 비교해야 할텐데, 내 맥북의 건강을 위해서 이쯤에서 끝낸다. 여튼 이득이 있어보인다!
