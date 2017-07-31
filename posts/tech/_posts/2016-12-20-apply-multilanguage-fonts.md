@@ -144,8 +144,8 @@ $hiraginoSans: Hiragino Sans;
 $appleSDGothicNeo: "Apple SD Gothic Neo", "애플 SD 산돌고딕 Neo", Apple SD Gothic Neo;
 
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
 $notoSans: "Noto Sans";
 $notoSansKR: "Noto Sans KR";
 $notoSansJP: "Noto Sans JP";
