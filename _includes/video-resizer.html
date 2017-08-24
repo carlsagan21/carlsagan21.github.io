@@ -1,6 +1,7 @@
 <script
-  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js"
+  src="{{ site.baseurl }}/jquery.slim.min.js"
   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
-  crossorigin="anonymous"></script>
+  crossorigin="anonymous"
+  defer></script>
 
 <script>$(function(){var a=$("iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], object, embed"),b=$("div.entry");a.each(function(){$(this).attr("data-aspectRatio",this.height/this.width).removeAttr("height").removeAttr("width")}),$(window).resize(function(){var c=b.width();a.each(function(){var a=$(this);a.width(c).height(c*a.attr("data-aspectRatio"))})}).resize()});</script>
