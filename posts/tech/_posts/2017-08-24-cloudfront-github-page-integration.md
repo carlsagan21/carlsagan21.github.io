@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepScan 으로 Prepack 버그 잡기
+title: Github page 에 CloudFront 적용하기
 ---
 
 내가 따로 글을 쓸 것도 없다. 아래 링크를 정독하면 된다.
