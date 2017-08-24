@@ -104,5 +104,5 @@ defaults:
       # published: "true"
 
 # pagination configs
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
