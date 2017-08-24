@@ -5,7 +5,7 @@ title: DeepScan 으로 Prepack 버그 잡기
 
 javascript static analysis 툴을 찾다가 [DeepScan](https://deepscan.io/) 을 발견해서 적용해 보았다.
 
-대상은 Prepack. [fork](https://github.com/carlsagan21/soo-prepack)를 떠논 것에 적용해 보았다.
+[Prepack fork](https://github.com/carlsagan21/soo-prepack)를 떠논 것을 돌렸다.
 
 [결과](https://deepscan.io/dashboard/#view=project&pid=385&bid=594)로 나온 것 중 명백한 것들만 골라내 [PR](https://github.com/facebook/prepack/pull/928)을 보냈다.
 
