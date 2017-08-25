@@ -1,7 +1,6 @@
     <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=5.0'>
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
@@ -18,6 +17,18 @@
     {% endif %}
 
     <!-- @favicon -->
+    <link rel="manifest" href="/favicon.ico/manifest.json">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="SooKiwi">
+    <meta name="apple-mobile-web-app-title" content="SooKiwi">
+    <meta name="theme-color" content="#666">
+    <meta name="msapplication-navbutton-color" content="#666">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/?utm_source=web_app_manifest">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <link rel="apple-touch-icon" sizes="57x57" href="/favicon.ico/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicon.ico/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/favicon.ico/apple-icon-72x72.png">
@@ -31,13 +42,11 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon.ico/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico/favicon-16x16.png">
-    <link rel="manifest" href="/favicon.ico/manifest.json">
+
     <!-- https://github.com/audreyr/favicon-cheat-sheet -->
     <!-- IE 10 Metro tile icon (Metro equivalent of apple-touch-icon) -->
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/favicon.ico/ms-icon-144x144.png">
     <!-- IE 11 Tile for Windows 8.1 Start Screen -->
-    <meta name="msapplication-tooltip" content="에어브릿지 - 모바일 앱마케팅 분석툴">
+    <meta name="msapplication-tooltip" content="SooKiwi">
     <meta name="msapplication-config" content="/favicon.ico/browserconfig.xml">
-    <!-- Google Android -->
-    <meta name="theme-color" content="#ffffff">
