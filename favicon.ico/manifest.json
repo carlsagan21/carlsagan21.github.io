@@ -2,8 +2,11 @@
   "name": "Soo Kim",
   "short_name": "SooKiwi",
   "description": "Cognitive Studies of Religion & Computer Science and Engineering",
-  "background_color": "#fff",
+  "lang": "ko-KR",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "/",
   "display": "standalone",
+  "theme_color": "#666",
   "icons": [
     {
       "src": "android-icon-36x36.png",
@@ -42,7 +45,5 @@
       "density": "4.0"
     }
   ],
-  "lang": "ko-KR",
-  "start_url": "/?utm_source=web_app_manifest",
-  "theme_color": "#666"
+  "background_color": "#fff"
 }
