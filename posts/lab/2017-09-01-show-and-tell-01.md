@@ -1,0 +1,14 @@
+---
+title: show and tell abstraction 01
+---
+
+Automated program corrector for programming assignments on behalf of Deep Learning.
+
+Recently I have been working on reproducing the result of automated neural program correcting[^1], which is supposed to fix about 30 % of arbitrary assignments. While briefly reporting the current status of my implementation, I will locate in which context the paper is exactly positioned and reveal implications of it, omitted by the author whether deliberately or not. And based on the context, I suggest several approaches that can improve a correct rate of the model and show a point of contact with the approaches of AA team.
+The most fundamental idea of the given paper is that we can fix and locate erroneous code lines by adopting methods of NLP. Since program code and natural languages are similar[^2], applying matured techniques from the alien field is worth a try. Especially the neural based language translation model is applicable to program code fixing.
+These days NLP has paid attention to severe impacts from Deep Learning, especially language modeling and its applications. As a result, translation model based on neural networks triumphed all competitors. The translation model, which matches a sequence to another sequence, so called seq2seq model, is quite universal in a sense that if one can convert data to sequential forms, a network can learn from the sequentialized data. The author of paper does the very work, additionally importing n-gram idea in a line level.
+However, because of the very idea of the trans-field application, there might be better improvements exploiting properties of program languages over the naive approach. To begin with, though the author might succeed in regenerating codes, it cannot locate exactly in which line a program is wrong and he/she should generate and fix it. What he/she has done is brute-forcing which is quite unpleasant considering exponential search area. Secondly, as adapting methodologies of NLP, the author is throwing out all the rich information of program codes compared to natural languages. Alpha conversion, AST[^3], type and further information using static analysis are potential candidates to be considered. So from these two points, further improvement of the corrector ought to begin.
+
+[^1]: Pu, Yewen, et al. "sk_p: a neural program corrector for MOOCs." Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity. ACM, 2016.
+[^2]: Hindle, Abram, et al. "On the naturalness of software." Software Engineering (ICSE), 2012 34th International Conference on. IEEE, 2012.
+[^3]: Mou, Lili, et al. "Convolutional Neural Networks over Tree Structures for Programming Language Processing." AAAI. 2016.
