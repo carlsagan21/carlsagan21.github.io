@@ -11,7 +11,7 @@ title: Vscode 에 Ocaml 개발환경 세팅하기 01
 
 ![editor learning curve](https://i.stack.imgur.com/phbAr.png)
 
-터머널 지향적인 vi 와 emacs 에 약하고 Atom, Intellij 등 GUI 기반 에디터/IDE 에 익숙한 사람이, Ocaml 만을 위해서 emacs 를 익힌다는 것은 배보다 배꼽이 더 큰 상황이다.
+터미널 지향적인 vi 와 emacs 에 약하고 Atom, Intellij 등 GUI 기반 에디터/IDE 에 익숙한 사람이, Ocaml 만을 위해서 emacs 를 익힌다는 것은 배보다 배꼽이 더 큰 상황이다.
 
 그런 이유로 GUI 환경에서 개발을 하고 싶어 여러 에디터를 검토한 끝에, Visual studio code 가 Ocaml 에 한해서는 최적의 환경이라고 판단되어 개발 환경을 세팅해 보았고 성공한 것 같아 공유한다.
 
