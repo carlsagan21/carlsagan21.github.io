@@ -19,7 +19,7 @@ title: Vscode 에 Ocaml 개발환경 세팅하기 01
 
 세팅 순서는 다음과 같다.
 
-### 1. opam 설치
+## 1. opam 설치
 
 <https://opam.ocaml.org/doc/Install.html>
 
@@ -103,7 +103,7 @@ system  C system  System compiler (4.05.0)
 # C 는 current, I 는 installed, -- 은 not-installed 이다. opam help switch 참고.
 ```
 
-### 2. ocaml 설치
+## 2. ocaml 설치
 
 앞에서 opam 을 설치하면서 의존성에 의해 ocaml 도 설치되었다고 말헀다. 하지만 우리는 그 ocaml 바이너리를 직접 사용하지는 않을 것이다. brew 가 아니라 opam 이 앞으로 ocaml 바이너리를 관리하게 한다.
 
@@ -125,7 +125,7 @@ opam switch sparrow --alias-of=4.05.0
 
 여기까지 했으면 ocaml, opam 개발환경 세팅은 거의 다 한 것이다. 이 과정은 에디터와 독립적이었으므로, 어떤 에디터를 사용하든 여기까지는 필수적이라 하겠다.
 
-### 3. merlin, ocp-indent 설치
+## 3. merlin, ocp-indent 설치
 
 merlin 과 ocp-indent 는 기본적으로 opam 패키지로, 에디터에서의 개발을 크게 도와주는 도구이다. merlin 은 타입추론부터.. 아무튼 모든 것들을 해주고, ocp-indent 는 소스 인덴트를 자동으로 해준다. 설치해보자.
 
@@ -158,7 +158,7 @@ vscode 의 마켓플레이스에서 ocaml 을 검색하여 설치하자.
 
 src/main.ml 을 만들고 간단한 코드를 써보자.
 
-```
+```sh
 let rec merge (l1, l2) =
   (*let rec merge ((l1: int list), (l2: int list)): int list =*)
   match l1, l2 with
