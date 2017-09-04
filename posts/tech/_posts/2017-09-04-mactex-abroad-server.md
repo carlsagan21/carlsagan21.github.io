@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepScan 으로 Prepack 버그 잡기
+title: Mactex 해외 서버에서 빨리 받기
 ---
 
 Mactex 공식 페이지에서 다운로드를 누르면 한국 서버로 연결되는데, 너무 느리다.
