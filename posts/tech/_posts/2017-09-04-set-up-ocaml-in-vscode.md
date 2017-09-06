@@ -178,6 +178,7 @@ let rec merge (l1, l2) =
 
 - .vscode/launch.json, .vscode/tasks.json 을 이용한 breakpoint 디버거(메모리를 실행상황에서 보는 기능)와 빌드 스크립트화
 - .merlin 및 oasis 세팅을 통한 대규모 패키지용 개발환경 구축 (sparrow가 oasis 를 이용한다. flow 는 oasis 비슷한걸 커스텀하게 만들어 쓰는거 같다)
+- oUnit 을 이용한 ocaml unit test 환경 / 프언 과제용 예시 테스트 케이스 만들기
 
 을 해보겠다.
 
