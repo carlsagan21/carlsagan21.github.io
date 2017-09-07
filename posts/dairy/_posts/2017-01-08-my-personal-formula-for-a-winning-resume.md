@@ -10,7 +10,7 @@ title: 구글의 인사담당 수석 부사장이 전하는 이력서에 필요�
 
 간단히 말하면
 
-> Accomplished [X] as measured by [Y] by doing [Z]
+> Accomplished \[X\] as measured by \[Y\] by doing \[Z\]
 
 하게 문장을 써라. (번역문에는 "계량화"라고 하는데, 정작 원문에는 없는 단어이긴 하다. 계량화라는 요약이 틀린건 아니지만)
 
