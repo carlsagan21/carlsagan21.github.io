@@ -25,7 +25,7 @@ And I constructed and trained the deep learning model, specifically modifying th
 
 Now that I have successfully generated the code, I need to find the error in the original program. If a line is the cause of the error, you can fix the problem by regenerating or removing the line. Error localization can be done stochastically from generated code. I made the probability of the generated code for each generation point is derived also. And tried to modify the code in descending order according to probability. Assuming that there are 21 possibilities in 10-line code, there are 21 points for one point correction and $ \comb{21}{2} $ for 2 point correction and so on. Thus, the size of the search space is theoretically $ 2^{21} $. In addition, I can use beam search to generate n possible lines stochastically instead of generating one for each revision point, which greatly increases the search space but predictably reduces the chance of missing the answer.
 
-## issue
+## issues
 
 However, the above method cannot fundamentally go beyond the theoretical limits. First, the logic to find the location of the error is incomplete - it just relies on stochastic results of code generation, which is somewhat irrelevant with occasions of errors; second, it does not exploit the difference between the program and the natural language, thus throwing out all the rich information of programs.
 
