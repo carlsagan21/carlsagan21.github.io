@@ -20,5 +20,5 @@ College of Liberal Studies, Seoul National University
 
 ### CV
 
-[PDF](https://github.com/carlsagan21/cv/blob/master/cv.pdf)
+[PDF](https://github.com/carlsagan21/cv/raw/master/cv.pdf)
 [Tex](https://github.com/carlsagan21/cv)
