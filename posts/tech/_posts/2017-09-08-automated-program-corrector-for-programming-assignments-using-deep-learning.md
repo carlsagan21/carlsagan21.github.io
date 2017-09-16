@@ -38,7 +38,7 @@ In my opinion, exploiting AST structure is the best next step to take.
 ---
 
 [PPT](https://github.com/carlsagan21/seminar-template/blob/master/Automated%20program%20corrector/sookim_170908.pptx): most up to date explaination
-[Latex](https://github.com/carlsagan21/seminar-template/tree/master/Automated%20program%20corrector): originally written by latex
+[Latex](https://github.com/carlsagan21/seminar-template/tree/master/Automated%20program%20corrector): originally written in latex
 [Code](https://github.com/carlsagan21/tensorflow-practice/blob/master/corrector.py): can be changed
 
 [^hindle2012naturalness]: A. Hindle, E. T. Barr, Z. Su, M. Gabel, and P. Devanbu. On the naturalness of software. In *Software Engineering (ICSE), 2012 34th International Conference on*, pages 837-847. IEEE. 2012.
