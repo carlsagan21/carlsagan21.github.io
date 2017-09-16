@@ -8,12 +8,17 @@ permalink: /about/
 
 ### More Information
 
-서울대학교 자유전공학부  
+서울대학교 자유전공학부
 인지종교학 & 컴퓨터공학 전공
 
-Majoring in Cognitive Studies of Religion & Computer Science and Engineering,  
+Majoring in Cognitive Studies of Religion & Computer Science and Engineering,
 College of Liberal Studies, Seoul National University
 
 ### Contact me
 
 [carlsagan96@gmail.com](mailto:carlsagan96@gmail.com)
+
+### CV
+
+[PDF](https://github.com/carlsagan21/cv/blob/master/cv.pdf)
+[Tex](https://github.com/carlsagan21/cv)
