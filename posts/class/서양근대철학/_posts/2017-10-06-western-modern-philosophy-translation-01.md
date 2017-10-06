@@ -2,7 +2,7 @@
 title: 서양근대철학 번역 01
 ---
 
-The Correspondence between Princess Elisabeth of Bohemia and René Descartes
+## The Correspondence between Princess Elisabeth of Bohemia and René Descartes (661 - 666)
 
 But today M. Palotti has given me such assurance of your goodwill toward everyone, and in particular toward me, that I chased from my mind all considerations other than that of availing myself of it.
 하지만 오늘 Palotti 부인이 당신이 모두에게 호의를 보인다는 것을, 그리고 특히 저에 대해서 그렇다는 확신을 주셨고, 제 마음에서 그 호의를 받아들이는 것 이외의 모든 생각을 몰아냈습니다.
