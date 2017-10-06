@@ -41,6 +41,7 @@ Egmond du Hod,  21 May 1643 -->
 
 <!-- Madame, The favor with which your Highness has honored me, in allowing me to receive her orders in writing, is greater than I would ever have dared to hope; and it is more consoling to my failings than what I had hoped for with passion, which was to receive them by mouth, had I been able to be admit- 664 ted the honor of paying you reverence, and of offering you my very humble services when I was last in The Hague. For in that case I would have had too many marvels to admire at the same time, and seeing superhuman discourse emerging from a body so similar to those painters give to angels, I would have been delighted in the same manner as it seems to me must be those who, coming from the earth, enter newly into heaven. This would have made me less capable of responding to your Highness, who without doubt has already noticed in me this failing, when I had the honor of speaking with her before; and your clemency wanted to assuage it, in leaving me the traces of your thoughts on a paper, where, in rereading them several times and accustoming myself to consider them, I would be truly less dazzled, but I instead feel more wonder, in noticing that these thoughts not only seem ingenious at the outset, but also even more judicious and solid the more one examines them. -->
 
+---
 
 I can say with truth that the question your Highness proposes seems to me that which, in view of my published writings, one can most rightly ask me.[^7]
 제가 진실로 말하건대 전하께서 제기하시는 질문은, 제 출판된 글들의 관점에서, 저에게 가장 충분히 물어질 수 있는 것으로 보입니다.
