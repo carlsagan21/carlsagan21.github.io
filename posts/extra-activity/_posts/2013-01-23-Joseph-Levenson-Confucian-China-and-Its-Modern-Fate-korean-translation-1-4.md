@@ -413,23 +413,16 @@ And it does possess them, said the chin-wen reformers, as the Chinese would real
 
 ---
 
-[^31]: Knight Biggerstaff, 'The T'ung Wen Kuan', Chinese Social and Political Science Review, XVIII, No. 3 (Oct. 1934), 321.
-직) Knight Biggerstaff, ‘The T’ugn Wen Kuan(同文館)’, Chinese Social and Political Science Review, XVIII, No. 3 (Oct. 1934), 321.
+[^31]: Knight Biggerstaff, 'The T'ung Wen Kuan', Chinese Social and Political Science Review, XVIII, No. 3 (Oct. 1934), 321. 직) Knight Biggerstaff, ‘The T’ugn Wen Kuan(同文館)’, Chinese Social and Political Science Review, XVIII, No. 3 (Oct. 1934), 321.
 
-[^32]: Jen, 107.
-직) Jen Shih-hsien, Shina hyoiku shi (History of Chinese education), Yamazaki Tatsuo, trans, (Tokyo, 1940), II, 이거의 107페이지를 의미하는 듯?
+[^32]: Jen, 107. 직) Jen Shih-hsien, Shina hyoiku shi (History of Chinese education), Yamazaki Tatsuo, trans, (Tokyo, 1940), II, 이거의 107페이지를 의미하는 듯?
 
-[^33]: Ch'uan, 143, 147-8.
-Ch'uan Han-sheng, ‘Ch'ing-mo fan-tui Hsi-hua ti yen-lun’ (Arguments against westernization in the late Ch'ing period), Lingnan hsueh-pao, V, Nos, 3-4 (Dec, 20, "936)j 의 143, 147-8을 의미하는 듯?
+[^33]: Ch'uan, 143, 147-8. Ch'uan Han-sheng, ‘Ch'ing-mo fan-tui Hsi-hua ti yen-lun’ (Arguments against westernization in the late Ch'ing period), Lingnan hsueh-pao, V, Nos, 3-4 (Dec, 20, "936)j 의 143, 147-8을 의미하는 듯?
 
-[^34]: Swift, selecting Descartes as the villain, did, as a matter of fact, make an occasional 'English' protest against science as a French and Catholic vogue. But the advancement of science was so obviously a common European pursuit, in a web of international collaboration, that this pretext for anti-scientism could have none of the point of Wo-jen’s distinction between China and the West.
-Swift는 데카르트를 악당으로 규정하고, 프랑스와 카톨릭의 유행으로 여겨진 과학에 맞서 ‘영국적’ 저항 운동을 사실상 만들었다. 하지만 과학의 성취는 국제적인 협업의 네트워크에서 유럽의 공통된 지향점과 너무도 분명하게 부합했고, 따라서 반과학주의를 위해 Swift가 제시한 이유는 중국과 서구를 구별한 왜인의 이유와는 거리가 있었다.
+[^34]: Swift, selecting Descartes as the villain, did, as a matter of fact, make an occasional 'English' protest against science as a French and Catholic vogue. But the advancement of science was so obviously a common European pursuit, in a web of international collaboration, that this pretext for anti-scientism could have none of the point of Wo-jen’s distinction between China and the West. Swift는 데카르트를 악당으로 규정하고, 프랑스와 카톨릭의 유행으로 여겨진 과학에 맞서 ‘영국적’ 저항 운동을 사실상 만들었다. 하지만 과학의 성취는 국제적인 협업의 네트워크에서 유럽의 공통된 지향점과 너무도 분명하게 부합했고, 따라서 반과학주의를 위해 Swift가 제시한 이유는 중국과 서구를 구별한 왜인의 이유와는 거리가 있었다.
 
-[^35]: See above, note 12.
-Marion J, Levy, Jr., Family Revolution in Modern China (Cambridge, 1949). 이거인 듯?
+[^35]: See above, note 12. Marion J, Levy, Jr., Family Revolution in Modern China (Cambridge, 1949). 이거인 듯?
 
-[^36]: Ch'en Teng-yuan, 'Hsi-hsueh lai Hua shih kuo-jen che wu-tuan t'ai-tu' (Arbitrary Chinese attitudes at the time of the coming of western knowledge to China), Tung-fang tsa-chih, XXVII, No. 8 (April 1930), 61.
-어떻게 찾아야 하지 ㅠㅠ
+[^36]: Ch'en Teng-yuan, 'Hsi-hsueh lai Hua shih kuo-jen che wu-tuan t'ai-tu' (Arbitrary Chinese attitudes at the time of the coming of western knowledge to China), Tung-fang tsa-chih, XXVII, No. 8 (April 1930), 61. 어떻게 찾아야 하지 ㅠㅠ
 
-[^37]: Teng and Fairbank, 145.
-Ssu-yii Teng and John K. Fairbank, China's Response to the West (Cambridge, 1954), 의 145인듯
+[^37]: Teng and Fairbank, 145. Ssu-yii Teng and John K. Fairbank, China's Response to the West (Cambridge, 1954), 의 145인듯
