@@ -7,23 +7,19 @@ permalink: /categories/
 <article class="categories">
   <h1>{{ page.title }}</h1>
   <ul>
-  {% for category in site.categories %}
-    <li>
-      <b name="{{ category | first }}">{{ category | first }}</b>
-      <ul>
-      <!-- {% if category.title != "posts" %} -->
-        {{ category.title }}
-        {% for posts in category %}
-          {% for post in posts %}
-            {% if post.url %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}
+    <!-- 사이트 전체 카테고리 이터레이션 -->
+    {% for category in site.categories %}
+      {% if category[0] != "posts" and category[0] != "class" %}
+      <li>
+        <!-- category: Array[2], [0]은 이름, [1]은 posts -->
+        <b name="{{ category[0] }}">{{ category[0] }}</b>
+        <ul>
+          {% for post in category[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
-        {% endfor %}
-      <!-- {% endif %} -->
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
-
+        </ul>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </article>
