@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Religion Japanese translation final
+title: Philosophy of Religion Translation 01 Final
 ---
 
 제대로된 첫 일본어 번역이자 작문.

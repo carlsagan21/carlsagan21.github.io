@@ -1,5 +1,5 @@
 ---
-title: show and tell abstraction 01
+title: Show and Tell Abstraction 01
 ---
 
 ### Automated program corrector for programming assignments on behalf of Deep Learning.

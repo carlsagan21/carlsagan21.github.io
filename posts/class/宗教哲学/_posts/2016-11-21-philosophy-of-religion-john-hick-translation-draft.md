@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Religion Japanese translation draft
+title: Philosophy of Religion Translation 01 Draft
 ---
 
 원문
