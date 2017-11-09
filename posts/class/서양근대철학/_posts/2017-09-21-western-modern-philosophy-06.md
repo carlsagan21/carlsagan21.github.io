@@ -1,5 +1,6 @@
 ---
 title: 서양근대철학 06
+published: false
 ---
 
 let C+D = clear and distinct (명석 판명 법칙) in

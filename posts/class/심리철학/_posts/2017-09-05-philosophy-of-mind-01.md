@@ -1,5 +1,6 @@
 ---
 title: 심리철학 01
+published: false
 ---
 
 ## 수업 정리

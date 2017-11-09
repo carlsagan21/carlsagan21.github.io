@@ -1,5 +1,6 @@
 ---
 title: 서양근대철학 07
+published: false
 ---
 
 

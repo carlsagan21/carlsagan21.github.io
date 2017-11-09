@@ -1,5 +1,6 @@
 ---
 title: 서양근대철학 03
+published: false
 ---
 
 ## 수업 정리

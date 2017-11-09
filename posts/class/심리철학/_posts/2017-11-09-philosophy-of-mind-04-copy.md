@@ -1,5 +1,5 @@
 ---
-title: 심리철학 04
+title: 심리철학 
 published: false
 ---
 

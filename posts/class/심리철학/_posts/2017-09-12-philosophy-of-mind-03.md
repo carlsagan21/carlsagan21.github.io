@@ -1,5 +1,6 @@
 ---
 title: 심리철학 03
+published: false
 ---
 
 ## 수반(속성이원론 + 물리주의)

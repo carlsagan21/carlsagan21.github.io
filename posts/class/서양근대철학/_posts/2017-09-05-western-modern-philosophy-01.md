@@ -1,5 +1,6 @@
 ---
 title: 서양근대철학 01
+published: false
 ---
 
 ## 강좌의 개요

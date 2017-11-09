@@ -1,5 +1,6 @@
 ---
 title: 심리철학 02
+published: false
 ---
 
 ## 데카르트 실체이원론
