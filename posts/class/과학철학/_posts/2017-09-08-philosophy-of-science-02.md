@@ -1,5 +1,6 @@
 ---
 title: 과학철학 02
+published: false
 ---
 
 ## 과학적 설명

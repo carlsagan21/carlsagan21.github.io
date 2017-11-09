@@ -1,5 +1,6 @@
 ---
 title: 과학철학 01
+published: false
 ---
 
 ## 과학의 목표
