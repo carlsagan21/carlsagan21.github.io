@@ -1,6 +1,6 @@
 ---
 title: 종교철학 17.11.11
-published: true
+published: false
 ---
 
 ## 시험 예상
