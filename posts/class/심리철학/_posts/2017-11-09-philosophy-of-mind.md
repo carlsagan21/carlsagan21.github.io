@@ -1,5 +1,5 @@
 ---
-title: 심리철학 17.11.09
+title: 심리철학 17.11.09.
 published: false
 ---
 
