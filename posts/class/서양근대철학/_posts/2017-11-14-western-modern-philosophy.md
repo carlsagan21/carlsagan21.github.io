@@ -40,7 +40,7 @@ esse est percipi aut percipere(To be is to be perceived or to perceive).
 버) 어떤 관계이기에 관념이 물질을 표상할 수 있는가?
 표) 유사성(Resemblance)이 관념과 물질을 이어주는 매개의 역할을 한다.
 유사하기 때문에 관념이 물질을 대표할 수 있다.
-버) (1)유사성 테제. 관념은 오직 관념과 유사할 수 있다.
+버) (1) 유사성 테제. 관념은 오직 관념과 유사할 수 있다.
 (2) 물질의 설명력. 감각경험 -> 물질의 존재가 연역 추론이 아님. 데카르트도 못함. 연역적인걸 못하면,
 Inference to the best explanation
 물질 -> 감각경험. 인과적인 야기. 물질이 어떻게 어떤 근거에서 감각경험을 갖게 해줌? vail of perception에 항상 갇혀있는 상태.
