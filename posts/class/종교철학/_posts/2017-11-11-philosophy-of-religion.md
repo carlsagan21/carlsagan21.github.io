@@ -1,5 +1,5 @@
 ---
-title: 종교철학 17.11.11
+title: 종교철학 17.11.11.
 published: false
 ---
 
