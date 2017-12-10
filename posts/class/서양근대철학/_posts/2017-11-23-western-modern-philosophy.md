@@ -1,5 +1,5 @@
 ---
-title: 서양근대철학 17.11.21.
+title: 서양근대철학 17.11.23.
 published: false
 ---
 
