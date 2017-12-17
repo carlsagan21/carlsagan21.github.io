@@ -1,5 +1,5 @@
 ---
-title: 과학철학 01
+title: 과학철학 17.09.01.
 published: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 심리철학 04
+title: 심리철학 17.09.14.
 published: false
 ---
 

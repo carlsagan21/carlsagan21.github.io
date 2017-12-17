@@ -1,5 +1,5 @@
 ---
-title: 과학철학 02
+title: 과학철학 17.09.08.
 published: false
 ---
 
@@ -116,7 +116,7 @@ Counterfactual conditional(반사실적 조건 진술)
 P(G / F) = r & Fa [r]-> Ga
 r이 1에 가까울수록 타당한 논증
 
-### 연역-통계적(Deductive-Statistical, I-S) 설명 모형
+### 연역-통계적(Deductive-Statistical, D-S) 설명 모형
 
 - 통계적 법칙이 보다 포괄적인 통계적 법칙으로부터 설명
 예) 기체 운동론 -> Graham 기체 확산 법칙

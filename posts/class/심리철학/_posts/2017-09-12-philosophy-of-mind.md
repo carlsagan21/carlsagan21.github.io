@@ -1,5 +1,5 @@
 ---
-title: 심리철학 03
+title: 심리철학 17.09.12.
 published: false
 ---
 
