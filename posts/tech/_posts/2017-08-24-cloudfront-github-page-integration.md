@@ -10,4 +10,4 @@ title: Github page 에 CloudFront 적용하기
 
 주의점2.
 
-> You need to be careful with your urls (you’re careful with them anyway, right?!). You must include the trailing slash like https://danielx.net/editor/, because if you don’t and do https://danielx.net/editor GitHub will respond with a 301 Redirect to your .github.io domain, and it won’t even keep the https!
+> You need to be careful with your urls (you’re careful with them anyway, right?!). You must include the trailing slash like `https://danielx.net/editor/`, because if you don’t and do `https://danielx.net/editor` GitHub will respond with a 301 Redirect to your .github.io domain, and it won’t even keep the https!

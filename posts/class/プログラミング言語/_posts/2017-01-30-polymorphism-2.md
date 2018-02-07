@@ -63,7 +63,6 @@ let rec treefold e f t =
         (treefold e f r)
 ```
 
-
 ---
 
 Java

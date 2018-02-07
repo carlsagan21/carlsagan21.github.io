@@ -87,7 +87,6 @@ title: Philosophy of Religion Translation 01 Final
 繰り返す：반복되다. くりかえす
 錯覚：착각.さっかく
 
-
 ---
 문장대응
 
