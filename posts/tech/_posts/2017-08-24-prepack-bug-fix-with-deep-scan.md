@@ -1,5 +1,4 @@
 ---
-layout: post
 title: DeepScan 으로 Prepack 버그 잡기
 ---
 

@@ -1,8 +1,6 @@
 ---
-title: Show and Tell Abstraction 01
+title: Automated program corrector for programming assignments on behalf of Deep Learning (Show and Tell Abstraction 01)
 ---
-
-## Automated program corrector for programming assignments on behalf of Deep Learning
 
 Recently I have been working on reproducing the result of automated neural program correcting[^1], which is supposed to fix about 30 % of arbitrary assignments. While briefly reporting the current status of my implementation, I will locate in which context the paper is exactly positioned and reveal implications of it, omitted by the author whether deliberately or not. And based on the context, I suggest several approaches that can improve a correct rate of the model and show a point of contact with the approaches of AA team.
 The most fundamental idea of the given paper is that we can fix and locate erroneous code lines by adopting methods of NLP. Since program code and natural languages are similar[^2], applying matured techniques from the alien field is worth a try. Especially the neural based language translation model is applicable to program code fixing.

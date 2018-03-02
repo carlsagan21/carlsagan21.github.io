@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 07
+title: 미국의 對 이란 전략 – 이슈 특정형 권력 구조 분석을 중심으로 (국제정치학 뉴스과제 07)
 ---
-
-미국의 對 이란 전략 – 이슈 특정형 권력 구조 분석을 중심으로
 
 International Herald Tribune, October 23, 2013
 "Criticism of United States' Mideast Policy Increasingly Comes From Allies" By MICHAEL R. GORDON

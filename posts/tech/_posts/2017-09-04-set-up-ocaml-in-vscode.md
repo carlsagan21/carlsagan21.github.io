@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vscode 에 Ocaml 개발환경 세팅하기 01
 ---
 

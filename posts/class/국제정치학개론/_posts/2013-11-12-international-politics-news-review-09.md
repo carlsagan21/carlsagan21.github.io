@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 09
+title: 이란 핵협상 타결 실패 – 미국의 북핵문제 해결실패로부터의 교훈 (국제정치학 뉴스과제 09)
 ---
-
-이란 핵협상 타결 실패 – 미국의 북핵문제 해결실패로부터의 교훈
 
 International Herald Tribune, November 9, 2013
 "Talks With Iran Fail to Produce a Nuclear Agreement" By Mark Landler

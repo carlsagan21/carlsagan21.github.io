@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Religion Translation 02
+title: The Problem Of Evil (Philosophy of Religion Translation 02)
 ---
 
 translation draft

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Github page 에 CloudFront 적용하기
 ---
 

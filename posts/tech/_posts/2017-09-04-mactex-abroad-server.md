@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mactex 해외 서버에서 빨리 받기
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 뉴스과제 02
+title: In Syria, Russian Official Questions U.N. Findings (국제정치학 뉴스과제 02)
 ---
 
 In Syria, Russian Official Questions U.N. Findings (12:43 am. Sept. 19)

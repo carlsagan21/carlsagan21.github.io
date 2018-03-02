@@ -1,6 +1,8 @@
 ---
-title: 국제정치학 예습과제 02 (Doom's Day Machine)
+title: Doom's Day Machine (국제정치학 예습과제 02)
 ---
+
+doom's-day-machine
 
 Q. 키신저가 말하는 정치적, 군사적 Doomsday Machine의 내용을 설명.
 

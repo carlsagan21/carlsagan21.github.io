@@ -1,5 +1,4 @@
 ---
-layout: post
 title: i18n 준비하기
 ---
 

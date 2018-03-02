@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 11
+title: 동아시아 갈등문제에 대한 해결방안 – 미군 철수/일본 자위대의 한반도 주둔 (국제정치학 뉴스과제 11)
 ---
-
-동아시아 갈등문제에 대한 해결방안 – 미군 철수/일본 자위대의 한반도 주둔
 
 International Herald Tribune, November 23, 2013
 "A Growing Chill Between South Korea and Japan Creates Problems for the U.S." By Martin Fackler and Choe Sang-Hun

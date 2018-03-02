@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 예습과제 04 (Civilian Power)
+title: Civilian Power (국제정치학 예습과제 04)
 ---
 
 Q. Maull 교수가 말하는 Global Civilian Power로서의 EU의 미래 역할에 대한 전망과 의미를 설명.

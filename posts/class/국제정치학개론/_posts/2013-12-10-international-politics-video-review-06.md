@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 영상과제 06 (Syriana)
+title: Syriana (국제정치학 영상과제 06)
 ---
 
 Syriana – 이슬람과 중동의 비극

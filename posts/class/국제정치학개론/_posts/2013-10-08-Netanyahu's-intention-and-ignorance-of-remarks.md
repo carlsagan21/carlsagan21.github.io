@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 04
+title: 네타냐후 총리 발언의 의도와 무지가 보이는 함의 (국제정치학 뉴스과제 04)
 ---
-
-네타냐후 총리 발언의 의도와 무지가 보이는 함의
 
 International Herald Tribune, October 6, 2013
 "Netanyahu Dressed Down After Appeal To Iranians" By Thomas Erdbrink

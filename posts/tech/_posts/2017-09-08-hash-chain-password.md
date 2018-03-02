@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 패스워드를 해시체인으로 관리하기
 published: false
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 글줄을 띄어쓰기에서만 끊기
 ---
 

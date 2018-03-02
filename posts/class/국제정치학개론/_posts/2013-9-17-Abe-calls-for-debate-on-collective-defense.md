@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 뉴스과제 01
+title: Abe calls for debate on collective defense (국제정치학 뉴스과제 01)
 ---
 
 JapanTimes "Abe calls for debate on collective defense"(SEP 12, 2013)

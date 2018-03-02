@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 다국어 폰트 적용 실험
 ---
 

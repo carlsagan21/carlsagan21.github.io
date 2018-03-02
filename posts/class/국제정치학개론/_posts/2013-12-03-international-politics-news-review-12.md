@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 12
+title: 중국의 일방적 방공식별구역 설치 – 동아시아 갈등 심화 (국제정치학 뉴스과제 12)
 ---
-
-중국의 일방적 방공식별구역 설치 – 동아시아 갈등 심화
 
 The Wall Street Journal, November 28, 2013
 "Concern Mounts in China's Air-Defense Zone" By Jeremy Page, Jeyup S. Kwaak and Yumi Otagaki

@@ -1,5 +1,5 @@
 ---
-title: Philosophy of Religion Translation 01 Draft
+title: 宗教のフレデリオン理論 (Philosophy of Religion Translation 01 Draft)
 ---
 
 원문

@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 08
+title: 시리아 문제 해결을 위한 UN의 노력과 한계 – 국제기관 자유주의적 관점으로 (국제정치학 뉴스과제 08)
 ---
-
-시리아 문제 해결을 위한 UN의 노력과 한계 – 국제기관 자유주의적 관점으로
 
 International Herald Tribune, November 4, 2013
 "While Few Seem Eager to Talk Peace in Syria, U.N. Mediator Won't Stop" By Somini Sengupta

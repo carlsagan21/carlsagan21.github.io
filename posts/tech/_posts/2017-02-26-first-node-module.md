@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 첫 노드 모듈 배포
 ---
 

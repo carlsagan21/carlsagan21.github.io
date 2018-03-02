@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 리눅스 커널 빌드 및 artik flash를 위한 gcc options
 ---
 

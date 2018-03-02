@@ -1,9 +1,5 @@
 ---
-title: 기독교개론 중간보고서
----
-
-The First Apology of Justin Martyr에서 드러난 새로운 기독교 – 정통기독교의 태동
-
+title: The First Apology of Justin Martyr에서 드러난 새로운 기독교 – 정통기독교의 태동 (기독교개론 중간보고서)
 ---
 
 ## Ⅰ. 서론

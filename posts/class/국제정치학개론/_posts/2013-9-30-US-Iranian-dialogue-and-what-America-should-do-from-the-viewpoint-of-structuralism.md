@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 03
+title: 구조주의적 관점에서 바라본 美-이란 대화와 미국이 취해야 할 방향 (국제정치학 뉴스과제 03)
 ---
-
-구조주의적 관점에서 바라본 美-이란 대화와 미국이 취해야 할 방향
 
 International Herald Tribune, September 29, 2013
 "Israel and Others in Mideast View Overtures of U.S. and Iran With Suspicion" By Jodi Rudoren

@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 06
+title: 사우디의 비상임이사국 선출 거부 – 대한민국의 1차북핵위기 대응과 비교하여 (국제정치학 뉴스과제 06)
 ---
-
-사우디의 비상임이사국 선출 거부 – 대한민국의 1차북핵위기 대응과 비교하여
 
 International Herald Tribune, October 18, 2013
 "Saudi Arabia Rejects U.N. Security Council Seat in Protest Move" By Robert F. Worth

@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 예습과제 22 (Berggruen)
+title: Berggruen (국제정치학 예습과제 22)
 ---
 
 Q. 첨부하는 글과 Berggruen씨의 Intelligent Governance라는 자료를 인터넷에서 찾아 읽고 내일 질문 기회가 주어진다면 어떤 질문을 왜 하겠는가?

@@ -1,5 +1,5 @@
 ---
-title: 국제정치학 예습과제 05 (illusion, coldwar)
+title: illusion, coldwar (국제정치학 예습과제 05)
 ---
 
 Q. 2차대전에 이르는 과정에서 환상(illusion)이란 무엇이며 그것이 어떻게 깨져나갔는가? 냉전은 어떻게 시작되었는가?

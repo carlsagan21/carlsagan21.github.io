@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Automated program corrector for programming assignments using Deep Learning
 ---
 

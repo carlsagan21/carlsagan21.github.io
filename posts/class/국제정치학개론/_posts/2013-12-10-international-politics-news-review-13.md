@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 13
+title: 한국의 방공구역 확대 – 동아시아 갈등의 씨앗? (국제정치학 뉴스과제 13)
 ---
-
-한국의 방공구역 확대 – 동아시아 갈등의 씨앗?
 
 The Wall Street Journal, November 28, 2013
 "South Korea Announces Expansion of Its Air Defense Zone" By CHOE SANG-HUN

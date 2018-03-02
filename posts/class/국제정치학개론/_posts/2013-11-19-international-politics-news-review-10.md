@@ -1,8 +1,6 @@
 ---
-title: 국제정치학 뉴스과제 10
+title: 스리랑카의 내전범죄로 인한 인권 침해 – 국제개입의 가능성의 관점에서 (국제정치학 뉴스과제 10)
 ---
-
-스리랑카의 내전범죄로 인한 인권 침해 – 국제개입의 가능성의 관점에서
 
 International Herald Tribune, November 13, 2013
 "Sri Lanka's Climate of Fear" By The Editorial Board
