@@ -1,6 +1,4 @@
-<script
-  src="{{ site.baseurl }}/jquery.slim.min.js"
-  integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+<script src="{{ site.baseurl }}/scripts/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
   crossorigin="anonymous"></script>
 
-<script>$(function(){var a=$("iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], object, embed"),b=$("div.entry");a.each(function(){$(this).attr("data-aspectRatio",this.height/this.width).removeAttr("height").removeAttr("width")}),$(window).resize(function(){var c=b.width();a.each(function(){var a=$(this);a.width(c).height(c*a.attr("data-aspectRatio"))})}).resize()});</script>
+<script>$(function () { var a = $("iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], object, embed"), b = $("div.entry"); a.each(function () { $(this).attr("data-aspectRatio", this.height / this.width).removeAttr("height").removeAttr("width") }), $(window).resize(function () { var c = b.width(); a.each(function () { var a = $(this); a.width(c).height(c * a.attr("data-aspectRatio")) }) }).resize() });</script>
