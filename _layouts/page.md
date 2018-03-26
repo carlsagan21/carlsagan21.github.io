@@ -1,4 +1,6 @@
---- layout: default ---
+---
+layout: default
+---
 
 <article class="page">
 
