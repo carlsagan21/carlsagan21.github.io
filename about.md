@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-김수(金秀, Soo Kim)
+sookiwi
 
 ## More Information
 
@@ -23,13 +23,3 @@ College of Liberal Studies, Seoul National University
 [PDF](https://github.com/carlsagan21/cv/raw/master/sookim_cv_cse.pdf)
 [PDF-longer-version](https://github.com/carlsagan21/cv/raw/master/sookim_cv_verbose.pdf)
 [Tex](https://github.com/carlsagan21/cv)
-
-## 취준 상황
-
-구글 코리아 인턴: 탈
-구글 재팬 인턴: 미정
-오라클 코리아 인턴: 합, 거절
-SAP lab 코리아 인턴: 진행중
-네이버: 미정
-라인재팬: 미정
-야후 재팬: 합

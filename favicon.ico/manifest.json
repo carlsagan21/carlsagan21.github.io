@@ -1,6 +1,6 @@
 {
-  "name": "Soo Kim",
-  "short_name": "SooKiwi",
+  "name": "sookiwi",
+  "short_name": "sookiwi",
   "description": "Cognitive Studies of Religion & Computer Science and Engineering",
   "lang": "ko-KR",
   "start_url": "/?utm_source=web_app_manifest",
@@ -46,7 +46,7 @@
     },
     {
       "src": "icon-512x512.png",
-      "sizes": "512x512",  
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
