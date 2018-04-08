@@ -10,6 +10,6 @@ title: 삼성에서 아쉬운 점
 ---
 
 링크로 건건 CES 2018 키노트. 이거말고 사내 홍보 교육 영상도 거의 백인
-제가 교육영상들을 꼼꼼히 본 건 아니라서 100퍼라고 말은 못해도
+내가 교육영상들을 꼼꼼히 본 건 아니라서 100퍼라고 말은 못해도
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTNg28dYNnM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
