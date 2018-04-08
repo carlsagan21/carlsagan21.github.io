@@ -4,9 +4,10 @@
 	window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
 	ga('create', '{{ site.google_analytics }}', 'auto');
 	ga('send', 'pageview', {
-		'page': '{{ site.baseurl }}{{ page.url }}',
+		'page': '{{ site.baseurl | replace: "'", "\\'" }}{{ page.url | replace: "'", "\\'" }}',
 		'title': '{{ page.title | replace: "'", "\\'" }}'
 	})
+	// escape ' with \, because preprocessor might put ' in js string.
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
