@@ -2,8 +2,11 @@
 <!-- Google Analytics -->
 <script>
 	window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
-	ga('create', 'UA-XXXXX-Y', 'auto');
-	ga('send', 'pageview');
+	ga('create', '{{ site.google_analytics }}', 'auto');
+	ga('send', 'pageview', {
+		'page': '{{ site.baseurl }}{{ page.url }}',
+		'title': '{{ page.title | replace: "'", "\\'" }}'
+	})
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
