@@ -52,7 +52,7 @@
     </div>
   </div>
 
-  {% include video-resizer.html %} {% include analytics.html %}
+  {% include video-resizer.html %} {% if jekyll.environment == "production" %} {% include analytics.html %} {% endif %}
 </body>
 
 </html>
