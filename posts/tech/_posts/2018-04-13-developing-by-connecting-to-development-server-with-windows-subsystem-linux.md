@@ -16,7 +16,7 @@ windows bash를 설치하는 법은 인터넷에 널려있으니 아무 글이�
 
 처음에는 cmd였나 powershell 이었나? 가 기본으로 실행된다. 이걸 setting에서 wsl bash를 기본으로 하도록 설정해주자.
 
-```cmd
+```shell
 # settings -> startup -> tasks
 # click "+" to make new task
 # name: whateveryouwant. mine is "wsl bash"
@@ -27,7 +27,7 @@ cmd /c "bash"
 
 이렇게 만든 task를 제일 위로 올려주자. 그럼 cmder이 켜질때 bash가 켜진다. 문제는 시작 디렉토리가 linux위치가 아니라는 거다. 이걸 잡기 위해서 다음과 같이 바꿔주자(혹은 startup dir... 을 누르자)
 
-```cmd
+```shell
 -new_console:d:C:\Users\{YOUR_USER_NAME}\AppData\Local\lxss\home cmd /c "bash"
 # find the path of wsl in your pc and put it.
 # if you cannot find, do search linux specific file such as `.bashrc`. It may be in somewhere down "AppData".
