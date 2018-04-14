@@ -35,3 +35,7 @@ cmd /c "bash"
 
 이러면 bash가 자동으로 실행된다. wsl은 ssh도 같이 오기때문에 ssh를 써서 서버에 붙을 수 있다.
 Happy hacking!
+
+---
+
+하다보니 cmder을 버리고 ConEmu 로 갈아탔다. materal-design-light theme이 예쁘기도 하고 커스터마이즈하기도 좋아서. 그리고 wsl bash를 따로 잡아줄 필요없이 자동으로 잡아주는듯? cmder도 해주는거 같기도 하고... 위의 방법도 되지만 여튼.
