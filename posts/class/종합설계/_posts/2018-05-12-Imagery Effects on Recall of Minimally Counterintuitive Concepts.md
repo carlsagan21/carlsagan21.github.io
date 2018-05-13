@@ -2,6 +2,8 @@
 title: Imagery Effects on Recall of Minimally Counterintuitive Concepts
 ---
 
+[WARNING] NOT MY WRITING - just for save and translation
+
 D. Jason Slonea, Lauren Gonceb, Afzal Upalc, Kristin Edwardsb, Ryan Tweneyb, (2007), "Imagery Effects on Recall of Minimally Counterintuitive Concepts".
 
 Abstract

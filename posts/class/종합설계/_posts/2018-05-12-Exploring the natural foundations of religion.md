@@ -2,6 +2,8 @@
 title: Exploring the natural foundations of religion
 ---
 
+[WARNING] NOT MY WRITING - just for save and translation
+
 Justin L. Barrett, (2000), "Exploring the natural foundations of religion".
 
 Abstract

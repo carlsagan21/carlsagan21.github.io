@@ -2,6 +2,8 @@
 title: Memory and Mystery - The Cultural Selection of Minimally Counterintuitive Narratives
 ---
 
+[WARNING] NOT MY WRITING - just for save and translation
+
 Ara Norenzayana, Scott Atranb, Jason Faulknera, Mark Schallera, (2006), "Memory and Mystery: The Cultural Selection of Minimally Counterintuitive Narratives".
 
 Abstract
