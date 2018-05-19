@@ -13,11 +13,11 @@ type list
     | T of list
 ```
 
-OCaml로 재귀적으로 정의된 타입니다. 하나씩 나열해보면 이런 식이다.
+OCaml로 재귀적으로 정의된 타입이다. 하나씩 나열해보면 이런 식이다.
 
 ```c++
 NULL, T NULL, T T NULL, T T T NULL, ...
-// in c++ vector
+// in c++ vector style
 std::vector<T> : {}, {T}, {T, T}, {T, T, T}, ...
 ```
 
