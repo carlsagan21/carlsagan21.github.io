@@ -1,5 +1,5 @@
 ---
-title: Google Intern Interview 후기
+title: G사 Intern Interview 후기
 ---
 
 온사이트로 45분씩 두 번 했다. NDA가 걸려있어서 공개는 못하고, 개인 bear 글로 보관해놓고 있는 중이다.
