@@ -22,4 +22,7 @@ p-value는 만능이 아니다. 그렇다고 무능도 아니다. 다만 제대�
 
 25.5.18 에 덧붙임
 Power Pose가 대표적인 p-hacking 이었다는 말이 있었다.
+이 기사가 완전 꿀잼... 한국어로 된 글에서는 찾을 수 없는 심도와 수준이 녹아있는 기사.
+Simmons와 Cuddy의 인물적 묘사도 훌륭하고 심리학계의 통계 방법론을 둘러싼 이야기를 아주아주아주 잘 보여주는 글.
+P-value 논의를 떠나서... Cuddy의 상황과 심리학계의 여러... 뭐랄까 끔찍한 면들이 있는듯. 가슴아프다.
 <https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html>
