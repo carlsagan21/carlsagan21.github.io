@@ -1,5 +1,6 @@
 ---
 title: Exploring the natural foundations of religion
+published: false
 ---
 
 [WARNING] NOT MY WRITING - just for save and translation

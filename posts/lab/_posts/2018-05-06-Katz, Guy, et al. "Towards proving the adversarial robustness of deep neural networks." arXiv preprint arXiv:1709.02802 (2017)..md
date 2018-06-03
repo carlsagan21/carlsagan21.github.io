@@ -1,5 +1,6 @@
 ---
 title: Katz, Guy, et al. "Towards proving the adversarial robustness of deep neural networks." arXiv preprint arXiv:1709.02802 (2017).
+published: false
 ---
 
 [WARNING] NOT MY WRITING - just for save and translation
