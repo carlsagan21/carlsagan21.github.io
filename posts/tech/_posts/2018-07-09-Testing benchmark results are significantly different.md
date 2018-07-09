@@ -20,6 +20,27 @@ title: 벤치마크 결과값이 유의미하게 다른지 검증하기
 
 모집단의 분포를 알지 못하는 상황에서 집단을 비교하기 위해서는 t-test를 이용해야 한다. 우리의 실험의 경우, 두 표본 집단을 비교하게 되므로 two-sample에 해당한다. 그리고 자료들이 어떤 짝 관계를 이루는 것이 아니기 때문에, independent를 이용하면 된다.
 
+그런데 independent two-sample t-test는 두 집단의 분산이 서로 같은지에 따라 계산법이 다르다. 분산이 다른 경우의 t-test를 따로 Welch's t-test 라고 부르기도 한다.[^2]
+분산이라는 것은 모집한 표본에 따라 다른 것이기 때문에, 해당 표본에 대해서 두 분산이 같은 지 여부를 검증해 주어야 한다. 이를 equality of variances 를 검증한다고 한다.
+
+## F-test of equality of variances[^3]
+
+F-test는 두 집단의 분산이 동일한지 여부를 검증하는 테스트 중 하나이다. f-test 이외에도 다른 테스트가 있다. Levene's test, Bartlett's test, Brown–Forsythe test 등이 가능한 옵션이다. 하지만 엑셀에서 기본적으로 지원하는 것이 f-test이므로 그냥 f-test를 사용한다.
+F-score를 계산하여 분산이 같거나 같지 않음을 보이면, 그 결과에 따라 t-test를 수행하면 된다.
+
+## example ressult
+
+| P-Value | significance  | T-Score | d.f. | Variance Equality | F-Score     | d.f.1 / d.f.2 | F Critical one-tail ( α = 0.05) |
+|---------|---------------|---------|------|-------------------|-------------|---------------|---------------------------------|
+| .001863 | p < .01 (99%) | 5.9875  | 5    | False             | 13.65217085 | 4 / 4         | 6.388232909                     |
+
+이 결과에 따라, 당신이 만든 수정은 매우 유의미하게 성능을 향상시킨다.
+
+## 논의
+
+이러한 방식의 한계는 f-test가 데이터의 분포가 normal인지 여부에 매우 민감하며, 원래 t-test 도 central limit theorem에 의해 보완된다 뿐이지 normal distribution을 요구한다. 하지만 우리는 벤치마크 결과가 normal인지 확신하기는 어렵다... 하지만 답이 없으므로 그냥 쓰는게 맞지 않을까.
 
 
 [^1]: https://en.wikipedia.org/wiki/Student%27s_t-test#Independent_two-sample_t-test
+[^2]: https://en.wikipedia.org/wiki/Welch%27s_t-test
+[^3]: https://en.wikipedia.org/wiki/F-test_of_equality_of_variances
