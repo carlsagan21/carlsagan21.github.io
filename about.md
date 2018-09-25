@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-sookiwi
+Living in Tokyo, Japan
 
 ## More Information
 
