@@ -11,7 +11,7 @@ sookiwi
 서울대학교 자유전공학부
 컴퓨터공학 & 인지종교학 전공
 
-Majoring in Computer Science and Engineering, Cognitive Studies of Religion,
+Majored in Computer Science and Engineering & Cognitive Studies of Religion,
 College of Liberal Studies, Seoul National University
 
 ## CV
