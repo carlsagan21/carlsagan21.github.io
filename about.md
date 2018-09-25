@@ -14,10 +14,6 @@ sookiwi
 Majoring in Computer Science and Engineering, Cognitive Studies of Religion,
 College of Liberal Studies, Seoul National University
 
-## Contact me
-
-[carlsagan96@gmail.com](mailto:carlsagan96@gmail.com)
-
 ## CV
 
 [PDF](https://github.com/carlsagan21/cv/raw/master/sookim_cv_cse.pdf)
