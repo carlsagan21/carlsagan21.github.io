@@ -2,7 +2,7 @@
 title: zsh 세팅
 ---
 
-별러왔던 `zsh` 세팅을 해 보았다.
+별려왔던(벼르어왔던) `zsh` 세팅을 해 보았다.
 `oh-my-zsh`, `agnoster`, `powerline-font` 기본 3종세트에, 플러그인은 `colored-man-pages`, `colorize`, `git`, `osx`, `zsh-autosuggestions`, `zsh-syntax-highlighting`.
 
 좋은것 같기도 하고 과한거 같기도 하고.
