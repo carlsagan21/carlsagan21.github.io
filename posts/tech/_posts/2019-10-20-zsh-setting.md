@@ -10,4 +10,4 @@ title: zsh 세팅
 
 ---
 
-powerlevel9k 로 테마를 바꿨다. 커스터마이징을 더 하려고.
+`powerlevel9k` 로 테마를 바꿨다. 커스터마이징을 더 하려고.
