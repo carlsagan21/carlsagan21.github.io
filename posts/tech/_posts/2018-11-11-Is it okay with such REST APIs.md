@@ -90,7 +90,26 @@ Link: </todos/>; rel="collection"
 ---
 
 ## Related materials
+
 Webcast: Pragmatic REST: The Next Generation
-about Service-oriented vs Data-oriented
 <https://www.slideshare.net/apigee/webcast-pragmatic-rest-the-next-generation>
 <https://www.youtube.com/watch?v=kTmqc7Cnqlw>
+
+### about Service-oriented vs Data-oriented
+
+링크를 프로시져로 보지 말고, 자료에 대한 primary key로 보자. 그러면 각 요청에 대한 200, 400 같은걸 따로 만들 필요가 없다. 그냥 자료의 식별자로 GET, POST같은 표준 요청을 하면 됨.
+
+Data oriented에서, Collection이나 Cursor를 받아올 때가 문제일 수 있는데, link를 이용한 pagenation도 고려해야 한다.
+Etag를 body에 넣는 이유? 헤더에 넣어도 되지만, collection 을 받아왔을때 각 요소에 대한 etag를 알고 싶을 수 있다.
+또 바디에 mimeType을 넣기도 한다. 구글 드라이브 API 참조.
+
+## Query url vs Permelink url
+
+Query도 좋은데, 변한다. (약간 이해 안됨)
+
+## Versioning
+
+하는 명확한 이유가 없다.
+그리고 동일 자료에 대해 여러 API를 허용하는 것 자체가 문제가 될 가능성이 높다.
+micro service를 깨버리리 가능성이 높다.
+클라이언트가 minor change에 견디도록 하라. 새로운 타입 추가, 새로운 프로퍼티 추가에도 동작하도록.
