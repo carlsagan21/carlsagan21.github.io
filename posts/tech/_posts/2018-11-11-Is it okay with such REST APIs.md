@@ -86,3 +86,11 @@ Link: </todos/>; rel="collection"
 
 무시하고 해도 된다. 마이크로소프트의 API 가이드라인.
 <https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md>
+
+---
+
+## Related materials
+Webcast: Pragmatic REST: The Next Generation
+about Service-oriented vs Data-oriented
+<https://www.slideshare.net/apigee/webcast-pragmatic-rest-the-next-generation>
+<https://www.youtube.com/watch?v=kTmqc7Cnqlw>
