@@ -123,3 +123,16 @@ Each document has been analyzed to list covered topics and their references with
 [Microsoft](http://apistylebook.com/design/guidelines/microsoft-rest-api-guidelines)
 [Google](http://apistylebook.com/design/guidelines/google-api-design-guide)
 [Whitehouse](http://apistylebook.com/design/guidelines/white-house-web-api-standards)
+
+### Worth read - 사내 위키에 잘 정리되어 있음!
+
+[Github](https://developer.github.com/v3/)
+[Github GraphQL](https://developer.github.com/v4/)
+[Twitter Ad](https://developer.twitter.com/en/docs/ads/general/guides/getting-started)
+[Slack Web](https://api.slack.com/web) - HTTP RPC-style methods
+[Paypal](https://github.com/paypal/api-standards)
+[Microsoft REST](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
+
+## OPTIONS vs HEAD
+
+<https://stackoverflow.com/questions/6660019/restful-api-methods-head-options>
